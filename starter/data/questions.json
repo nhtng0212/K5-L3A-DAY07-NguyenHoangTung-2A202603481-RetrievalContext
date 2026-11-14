@@ -1,0 +1,277 @@
+[
+  {
+    "id": "q01",
+    "split": "dev",
+    "question": "Bộ luật Dân sự năm 2005 được Quốc hội thông qua ngày nào và có hiệu lực từ ngày nào?",
+    "expected_answer": "Được thông qua ngày 14/06/2005 và có hiệu lực từ ngày 01/01/2006.",
+    "gold": [
+      {
+        "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+        "page": 22,
+        "evidence": "đến ngày 14 tháng 6 năm 2005 Quốc hội đã thông qua Bộ luật dân sự 2005 (có hiệu lực từ ngày 01/01/06)"
+      }
+    ]
+  },
+  {
+    "id": "q02",
+    "split": "dev",
+    "question": "Luật dân sự Việt Nam hiện hành thừa nhận những loại chủ thể nào của quan hệ pháp luật?",
+    "expected_answer": "Cá nhân, pháp nhân, hộ gia đình và tổ hợp tác.",
+    "gold": [
+      {
+        "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+        "page": 23,
+        "evidence": "Luật dân sự Việt Nam hiện hành thừa nhận sự tồn tại của bốn loại chủ thể của quan hệ pháp luật: cá nhân, pháp nhân, hộ gia đình và tổ hợp tác."
+      }
+    ]
+  },
+  {
+    "id": "q03",
+    "split": "dev",
+    "question": "Lý lịch dân sự của cá nhân được hình thành từ ba yếu tố nào?",
+    "expected_answer": "Họ và tên, hộ tịch và nơi cư trú.",
+    "gold": [
+      {
+        "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+        "page": 23,
+        "evidence": "Lý lịch dân sự của cá nhân hình thành từ ba yếu tố: họ và tên, hộ tịch, và nơi cư trú."
+      }
+    ],
+    "filter": {
+      "category": "ca_nhan"
+    }
+  },
+  {
+    "id": "q04",
+    "split": "dev",
+    "question": "Tên được dùng thay cho tên thật nhằm che giấu tung tích được gọi là gì?",
+    "expected_answer": "Bí danh.",
+    "gold": [
+      {
+        "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+        "page": 23,
+        "evidence": "Bí danh: là tên dùng thay tên thật để giữ bí mật."
+      }
+    ]
+  },
+  {
+    "id": "q05",
+    "split": "dev",
+    "question": "Chế định nơi cư trú có chức năng định vị cá nhân như thế nào về phương diện pháp lý?",
+    "expected_answer": "Nơi cư trú định vị cá nhân trong không gian và phải là một điểm cố định trên lãnh thổ.",
+    "gold": [
+      {
+        "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+        "page": 38,
+        "evidence": "Chế định nơi cư trú là biện pháp định vị cá nhân trong không gian, về phương diện pháp lý. Nơi cư trú phải là một điểm cố định trên lãnh thổ chứ không thể là một điểm di động."
+      }
+    ]
+  },
+  {
+    "id": "q06",
+    "split": "dev",
+    "question": "Theo giáo trình, những ai được xếp vào nhóm hoàn toàn không có năng lực hành vi?",
+    "expected_answer": "Người chưa đủ sáu tuổi và người mắc bệnh tâm thần hoặc bệnh khác không thể làm chủ hành vi, đã bị Tòa án tuyên bố mất năng lực hành vi.",
+    "gold": [
+      {
+        "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+        "page": 51,
+        "evidence": "Những người hoàn toàn không có năng lực hành vi bao gồm người chưa đủ sáu tuổi và người mắc bệnh tâm thần hoặc mắc các bệnh khác mà không thể làm chủ được hành vi của mình và bị Toà án tuyên bố mất năng lực hành vi"
+      }
+    ]
+  },
+  {
+    "id": "q07",
+    "split": "dev",
+    "question": "Theo BLDS năm 2005, quyền nhân thân được định nghĩa như thế nào?",
+    "expected_answer": "Là quyền dân sự gắn liền với mỗi cá nhân và không thể chuyển giao, trừ trường hợp pháp luật quy định khác.",
+    "gold": [
+      {
+        "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+        "page": 68,
+        "evidence": "quyền nhân thân là quyền dân sự gắn liền với mỗi cá nhân, không thể chuyển giao cho người khác, trừ trường hợp pháp luật có quy định khác."
+      }
+    ]
+  },
+  {
+    "id": "q08",
+    "split": "dev",
+    "question": "BLDS 2005 nêu những đặc điểm cơ bản nào của một pháp nhân?",
+    "expected_answer": "Được thành lập hợp pháp; có cơ cấu tổ chức chặt chẽ; có tài sản độc lập và tự chịu trách nhiệm bằng tài sản đó; nhân danh mình tham gia quan hệ pháp luật độc lập.",
+    "gold": [
+      {
+        "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+        "page": 76,
+        "evidence": "BLDS 2005 định nghĩa pháp nhân như là một tổ chức được thành lập hợp pháp; có cơ cấu tổ chức chặt chẽ; có tài sản độc lập với cá nhân, tổ chức khác và tự chịu trách nhiệm bằng tài sản đó; nhân danh mình tham gia các quan hệ pháp luật một cách độc lập"
+      }
+    ],
+    "filter": {
+      "category": "phap_nhan"
+    }
+  },
+  {
+    "id": "q09",
+    "split": "dev",
+    "question": "Một quyền dân sự phải đáp ứng hai điều kiện nào để được coi là quyền tài sản?",
+    "expected_answer": "Phải trị giá được bằng tiền và có thể chuyển giao trong giao lưu dân sự.",
+    "gold": [
+      {
+        "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+        "page": 93,
+        "evidence": "một quyền dân sự được coi là quyền tài sản khi hội đủ hai yếu tố sau: thứ nhất, quyền đó phải trị giá được bằng tiền; thứ hai, quyền đó chuyển giao được trong giao lưu dân sự."
+      }
+    ]
+  },
+  {
+    "id": "q10",
+    "split": "dev",
+    "question": "Giáo trình phân biệt hoa lợi và lợi tức như thế nào?",
+    "expected_answer": "Hoa lợi là sản vật tự nhiên do tài sản mang lại; lợi tức là khoản lợi thu được từ việc khai thác tài sản.",
+    "gold": [
+      {
+        "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+        "page": 95,
+        "evidence": "Hoa lợi là sản vật tự nhiên mà tài sản mang lại. Lợi tức là khoản lợi thu được từ việc khai thác tài sản."
+      }
+    ]
+  },
+  {
+    "id": "q11",
+    "split": "dev",
+    "question": "Khi vật chính được mua bán, tặng cho hoặc trao đổi, vật phụ được xử lý ra sao nếu không có thỏa thuận khác?",
+    "expected_answer": "Vật phụ mặc nhiên đi theo vật chính.",
+    "gold": [
+      {
+        "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+        "page": 96,
+        "evidence": "Khi vật chính được mua bán, tặng cho, trao đổi, di tặng, góp vốn vào công ty thì vật phụ cũng mặc nhiên đi theo, nếu không có thỏa thuận khác."
+      }
+    ]
+  },
+  {
+    "id": "q12",
+    "split": "dev",
+    "question": "Vật tiêu hao được định nghĩa như thế nào?",
+    "expected_answer": "Là vật mất đi hoặc không giữ được tính chất, hình dáng và tính năng sử dụng ban đầu sau một lần sử dụng.",
+    "gold": [
+      {
+        "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+        "page": 97,
+        "evidence": "Vật tiêu hao là vật khi đã qua sử dụng một lần thì mất đi hoặc không giữ được tính chất, hình dáng và tính năng sử dụng ban đầu."
+      }
+    ]
+  },
+  {
+    "id": "q13",
+    "split": "dev",
+    "question": "Điểm phân biệt vật cùng loại với vật đặc định là gì?",
+    "expected_answer": "Vật cùng loại có chung hình dáng, tính chất, tính năng và xác định bằng đơn vị đo lường; vật đặc định được phân biệt bằng các đặc điểm riêng.",
+    "gold": [
+      {
+        "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+        "page": 97,
+        "evidence": "Vật cùng loại là những vật có cùng hình dáng, tính chất, tính năng sử dụng và xác định được bằng những đơn vị đo lường. - Vật đặc định là vật phân biệt được với các vật khác bằng những đặc điểm riêng về ký hiệu, hình dáng, màu sắc, chất liệu, đặc tính, vị trí.”"
+      }
+    ]
+  },
+  {
+    "id": "q14",
+    "split": "dev",
+    "question": "Khi tài sản vô hình bị xâm hại, vì sao chủ sở hữu không thể kiện đòi lại tài sản như đối với vật hữu hình?",
+    "expected_answer": "Vì tài sản vô hình không thể bị chiếm hữu hoặc nằm trong kiểm soát vật chất; chủ sở hữu phải khởi kiện hoặc khiếu nại để bảo vệ lợi ích.",
+    "gold": [
+      {
+        "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+        "page": 100,
+        "evidence": "tài sản vô hình không thể chiếm hữu được, nghĩa là không thể nằm trong phạm vi kiểm soát vật chất của con người như những loại tài sản khác (bàn ghế, tập vở, bút viết...). Trong trường hợp quyền sở hữu đối với tài sản vô hình bị xâm hại thì chủ sở hữu có quyền khởi kiện hay khiếu nại trước cơ quan Nhà nước có thẩm quyền để bảo vệ lợi ích của mình chứ không thể kiện đòi lại tài sản."
+      }
+    ],
+    "filter": {
+      "category": "tai_san_quyen_so_huu"
+    }
+  },
+  {
+    "id": "q15",
+    "split": "dev",
+    "question": "Độc quyền sáng chế, giải pháp hữu ích và kiểu dáng công nghiệp lần lượt hết hiệu lực sau bao lâu?",
+    "expected_answer": "Sáng chế: 20 năm; giải pháp hữu ích: 10 năm; kiểu dáng công nghiệp: 15 năm.",
+    "gold": [
+      {
+        "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+        "page": 100,
+        "evidence": "Độc quyền sáng chế hết hiệu lực sau 20 năm kể từ ngày nộp đơn xin cấp văn bằng bảo hộ; sau 10 năm đối với độc quyền giải pháp hữu ích; sau 15 năm đối với độc quyền kiểu dáng công nghiệp"
+      }
+    ]
+  },
+  {
+    "id": "q16",
+    "split": "test",
+    "question": "Về mặt pháp lý, một cá nhân có thể có nhiều nơi cư trú cố định cùng lúc không?",
+    "expected_answer": "Không; giáo trình xác định mỗi người chỉ có một nơi cư trú.",
+    "gold": [
+      {
+        "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+        "page": 38,
+        "evidence": "mỗi người chỉ có một nơi cư trú: một người có nơi cư trú tại nhiều hơn một điểm cố định coi như luôn di động giữa các điểm cố định đó."
+      }
+    ]
+  },
+  {
+    "id": "q17",
+    "split": "test",
+    "question": "Theo BLDS 1995, pháp nhân tham gia quan hệ pháp luật dưới danh nghĩa nào?",
+    "expected_answer": "Pháp nhân nhân danh chính mình để tham gia quan hệ pháp luật một cách độc lập.",
+    "gold": [
+      {
+        "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+        "page": 76,
+        "evidence": "nhân danh mình tham gia vào các quan hệ pháp luật một cách độc lập"
+      }
+    ],
+    "filter": {
+      "category": "phap_nhan"
+    }
+  },
+  {
+    "id": "q18",
+    "split": "test",
+    "question": "Vì sao vật tiêu hao không thể là đối tượng của hợp đồng cho thuê hoặc cho mượn?",
+    "expected_answer": "Vì việc sử dụng vật tiêu hao đồng nghĩa với định đoạt, nên chuyển quyền sử dụng cũng bao hàm chuyển quyền sở hữu.",
+    "gold": [
+      {
+        "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+        "page": 97,
+        "evidence": "Vật tiêu hao không thể là đối tượng của hợp đồng cho thuê hoặc hợp đồng cho mượn”. Nghĩa là các tài sản có thể cho thuê, cho mượn không thể là những vật tiêu hao. Thật vậy, đối với tài sản tiêu hao, sử dụng đồng nghĩa với định đoạt và chuyển quyền sử dụng bao hàm cả việc chuyển quyền sở hữu."
+      }
+    ]
+  },
+  {
+    "id": "q19",
+    "split": "test",
+    "question": "Để xác lập quyền sở hữu theo thời hiệu, việc chiếm hữu phải đáp ứng những yêu cầu nào?",
+    "expected_answer": "Phải chiếm hữu như một chủ sở hữu, có đủ corpus và animus, đồng thời liên tục và công khai.",
+    "gold": [
+      {
+        "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+        "page": 122,
+        "evidence": "Để xác lập được quyền sở hữu theo thời hiệu, người chiếm hữu tài sản phải chiếm hữu theo cung cách của một người có quyền sở hữu đối với tài sản đó, nghĩa là có đủ corpus và animus. Việc chiếm hữu phải liên tục và công khai."
+      }
+    ]
+  },
+  {
+    "id": "q20",
+    "split": "test",
+    "question": "Quyền sở hữu bề mặt có phải đăng ký khi tài sản gắn liền với đất thuộc loại phải đăng ký quyền sở hữu không?",
+    "expected_answer": "Có. Nếu tài sản gắn liền với đất phải đăng ký thì quyền sở hữu bề mặt đối với tài sản đó cũng phải đăng ký.",
+    "gold": [
+      {
+        "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+        "page": 152,
+        "evidence": "Nếu các tài sản gắn liền với đất thuộc loại phải đăng ký quyền sở hữu, thì quyền sở hữu bề mặt xác lập đối với các tài sản đó cũng phải được đăng ký."
+      }
+    ],
+    "filter": {
+      "category": "tai_san_quyen_so_huu"
+    }
+  }
+]

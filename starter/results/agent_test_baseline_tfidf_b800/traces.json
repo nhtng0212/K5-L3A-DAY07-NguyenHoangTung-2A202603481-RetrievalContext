@@ -1,0 +1,1483 @@
+[
+  {
+    "query_id": "q16",
+    "split": "test",
+    "question": "Về mặt pháp lý, một cá nhân có thể có nhiều nơi cư trú cố định cùng lúc không?",
+    "answerable": true,
+    "filter": null,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "search_count": 3,
+    "llm_calls": 3,
+    "prompt_tokens": 1974,
+    "completion_tokens": 65,
+    "elapsed_ms": 4780.35,
+    "events": [
+      {
+        "event": "search",
+        "query": "Về mặt pháp lý, một cá nhân có thể có nhiều nơi cư trú cố định cùng lúc không?",
+        "filter": null,
+        "results": [
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0038:c0000",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 38,
+            "text": "bỏ ghi nhận đó phải tìm cách chứng minh về tính không xác thực của nó31. 3. Nơi cư trú Sự cần thiết của việc xác định nơi cư trú. Hộ tịch giúp phân biệt một cá nhân với một cá nhân khác. Nhưng để xác lập và thực hiện các giao dịch với người khác, cá nhân phải ở trong tình trạng có thể được liên lạc. Cá nhân không liên lạc được không thể được coi là chủ thể hiện thực của quyền và nghĩa vụ pháp lý: người ta sẽ không biết làm thế nào gọi người đó đến để tiếp nhận việc thực hiện một nghĩa vụ hoặc để đáp ứng quyền yêu cầu của một người khác. Trong quan niệm truyền thống, đời sống pháp lý của cá nhân nhất thiết phải gắn với một nơi chốn nào đó. Luật gọi nơi chốn đó là nơi cư trú. Chế định nơi cư trú là biện pháp định vị cá nhân trong không gian, về phương diện pháp lý. Nơi cư trú phải là một điểm cố định trên lãnh thổ chứ không thể là một điểm di động. Điều đó cũng có nghĩa rằng mỗi người chỉ có một nơi cư trú: một người có nơi cư trú tại nhiều hơn một điểm cố định coi như luôn di động giữa các điểm cố định đó. Ta lần lượt nghiên cứu chức năng của nơi cư trú và cách xác định nơi cư trú. 3.1.",
+            "metadata": {
+              "volume": 1,
+              "category": "ca_nhan",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 0,
+              "document_type": "giao_trinh",
+              "category_label": "Chủ thể cá nhân",
+              "paragraph_count": 1
+            },
+            "score": 0.5984948280583132,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0038:c0001",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 38,
+            "text": "Chức năng của nơi cư trú Ðịa chỉ liên lạc của cá nhân và nơi lưu trữ các dữ kiện cơ bản về hộ tịch. Nơi cư trú theo nghĩa pháp lý không nhất thiết là nơi cư trú theo nghĩa vật chất. Con người có thể liên tục thay đổi nơi cư trú vật chất mà vẫn giữ cố định nơi cư trú pháp lý của mình. Về phương diện công pháp, nơi cư trú giữ vai trò địa chỉ liên lạc giữa cá nhân với Nhà nước, cụ thể hơn, với các cơ quan Nhà nước: nhà chức trách thuế vụ gửi giấy báo thuế đến nơi cư trú của người chịu thuế; hội đồng bầu cử gửi thẻ cử tri đến nơi cư trú của cử tri; hội đồng nghĩa vụ quân sự gửi giấy triệu tập để khám sức khoẻ và lệnh gọi nhập ngũ đến nơi cư trú của người phải thi hành nghĩa vụ quân sự;... Ở góc độ tư pháp, chức năng của nơi cư trú khá đa dạng: - Thông thường, nơi cư trú đầu tiên của cá nhân, sau khi ra đời, cũng là nơi đăng ký khai sinh của cá nhân. Nơi đăng ký kết hôn là nơi cư trú của một trong hai bên nam, nữ; nới đăng ký khai tử là nơi cư trú cuối cùng của người chết; nơi cư trú của người xin thay đổi, cải chính hộ tịch là nơi đăng ký việc thay đổi, cải chính hộ tịch;...",
+            "metadata": {
+              "volume": 1,
+              "category": "ca_nhan",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 1,
+              "document_type": "giao_trinh",
+              "category_label": "Chủ thể cá nhân",
+              "paragraph_count": 1
+            },
+            "score": 0.4820211884436464,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0038:c0002",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 38,
+            "text": "Một cách tổng quát, nơi cư trú của cá nhân là nơi mà người ta có thể thu thập các thông tin về hộ tịch của cá nhân. - Trong trường hợp một nghĩa vụ tài sản có tính chất động sản được xác lập và các bên không có thoả thuận về nơi thực hiện nghĩa vụ, thì nơi này là nơi cư trú của người có quyền yêu cầu (BLDS Ðiều 284 khoản 2). - Trong các tranh chấp dân sự, Toà án có thẩm quyền giải quyết là Toà án nơi cư trú của bị đơn, trừ trường hợp việc tranh chấp có liên quan đến bất động sản hoặc các bên tranh chấp có thoả thuận yêu cầu Toà án nơi cư trú của nguyên đơn giải quyết ( Bộ luật tố tụng dân sự 2004 Điều 35 khoản 1). 3.2. Xác định nơi cư trú Dựa vào các Ðiều từ 52 đến 57 BLDS và các Điều từ 12 đến 17 của Luật cư trú năm 2006 ta nói rằng có bốn cách xác định nơi cư trú: dựa vào quan hệ quản lý hành chính về trật tự xã hội, quan hệ gia đình, quan hệ nghề nghiệp và theo ý chí của đương sự. 3.2.1. Xác định nơi cư trú dựa vào quan hệ quản lý hành chính về trật tự xã hội Theo BLDS Ðiều 52 khoản 1, nơi cư trú của một cá nhân là nơi người đó thường xuyên sinh sống. Điều 12 Luật cư trú cho rằng “Nơi cư trú của công dân là chỗ ở hợp pháp mà",
+            "metadata": {
+              "volume": 1,
+              "category": "ca_nhan",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 2,
+              "document_type": "giao_trinh",
+              "category_label": "Chủ thể cá nhân",
+              "paragraph_count": 1
+            },
+            "score": 0.4617819820968509,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search",
+        "query": "cá nhân nhiều nơi cư trú cố định pháp lý",
+        "filter": null,
+        "results": [
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0038:c0000",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 38,
+            "text": "bỏ ghi nhận đó phải tìm cách chứng minh về tính không xác thực của nó31. 3. Nơi cư trú Sự cần thiết của việc xác định nơi cư trú. Hộ tịch giúp phân biệt một cá nhân với một cá nhân khác. Nhưng để xác lập và thực hiện các giao dịch với người khác, cá nhân phải ở trong tình trạng có thể được liên lạc. Cá nhân không liên lạc được không thể được coi là chủ thể hiện thực của quyền và nghĩa vụ pháp lý: người ta sẽ không biết làm thế nào gọi người đó đến để tiếp nhận việc thực hiện một nghĩa vụ hoặc để đáp ứng quyền yêu cầu của một người khác. Trong quan niệm truyền thống, đời sống pháp lý của cá nhân nhất thiết phải gắn với một nơi chốn nào đó. Luật gọi nơi chốn đó là nơi cư trú. Chế định nơi cư trú là biện pháp định vị cá nhân trong không gian, về phương diện pháp lý. Nơi cư trú phải là một điểm cố định trên lãnh thổ chứ không thể là một điểm di động. Điều đó cũng có nghĩa rằng mỗi người chỉ có một nơi cư trú: một người có nơi cư trú tại nhiều hơn một điểm cố định coi như luôn di động giữa các điểm cố định đó. Ta lần lượt nghiên cứu chức năng của nơi cư trú và cách xác định nơi cư trú. 3.1.",
+            "metadata": {
+              "volume": 1,
+              "category": "ca_nhan",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 0,
+              "document_type": "giao_trinh",
+              "category_label": "Chủ thể cá nhân",
+              "paragraph_count": 1
+            },
+            "score": 0.6790527192818125,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0038:c0001",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 38,
+            "text": "Chức năng của nơi cư trú Ðịa chỉ liên lạc của cá nhân và nơi lưu trữ các dữ kiện cơ bản về hộ tịch. Nơi cư trú theo nghĩa pháp lý không nhất thiết là nơi cư trú theo nghĩa vật chất. Con người có thể liên tục thay đổi nơi cư trú vật chất mà vẫn giữ cố định nơi cư trú pháp lý của mình. Về phương diện công pháp, nơi cư trú giữ vai trò địa chỉ liên lạc giữa cá nhân với Nhà nước, cụ thể hơn, với các cơ quan Nhà nước: nhà chức trách thuế vụ gửi giấy báo thuế đến nơi cư trú của người chịu thuế; hội đồng bầu cử gửi thẻ cử tri đến nơi cư trú của cử tri; hội đồng nghĩa vụ quân sự gửi giấy triệu tập để khám sức khoẻ và lệnh gọi nhập ngũ đến nơi cư trú của người phải thi hành nghĩa vụ quân sự;... Ở góc độ tư pháp, chức năng của nơi cư trú khá đa dạng: - Thông thường, nơi cư trú đầu tiên của cá nhân, sau khi ra đời, cũng là nơi đăng ký khai sinh của cá nhân. Nơi đăng ký kết hôn là nơi cư trú của một trong hai bên nam, nữ; nới đăng ký khai tử là nơi cư trú cuối cùng của người chết; nơi cư trú của người xin thay đổi, cải chính hộ tịch là nơi đăng ký việc thay đổi, cải chính hộ tịch;...",
+            "metadata": {
+              "volume": 1,
+              "category": "ca_nhan",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 1,
+              "document_type": "giao_trinh",
+              "category_label": "Chủ thể cá nhân",
+              "paragraph_count": 1
+            },
+            "score": 0.5832407736158045,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0039:c0000",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 39,
+            "text": "người đó thường xuyên sinh sống. Nơi cư trú của công dân là nơi thường trú hoặc nơi tạm trú. Chỗ ở hợp pháp là nhà ở, phương tiện hoặc nhà khác mà công dân sử dụng để cư trú. Chỗ ở hợp pháp có thể thuộc quyền sở hữu của công dân hoặc được cơ quan, tổ chức, cá nhân cho thuê, cho mượn, cho ở nhờ theo quy định của pháp luật.Nơi thường trú là nơi công dân sinh sống thường xuyên, ổn định, không có thời hạn tại một chỗ ở nhất định và đã đăng ký thường trú. Nơi tạm trú là nơi công dân sinh sống ngoài nơi đăng ký thường trú và đã đăng ký tạm trú. Trường hợp không xác định được nơi cư trú của công dân theo quy định trên thì nơi cư trú của công dân là nơi người đó đang sinh sống.” Quy tắc này có lẽ được áp dụng chủ yếu đối với người có đầy đủ năng lực hành vi hoặc từ đủ mười lăm tuổi trở lên và được phép có nơi cư trú riêng trong những trường hợp dự liệu tại các Ðiều 53 khoản 2 và 54 khoản 2 BLDS: người chưa thành niên dưới 15 tuổi có thể cư trú ở một nơi khác với nơi cư trú của cha, mẹ hoặc người giám hộ, nhưng luôn có nơi cư trú (theo luật) trùng với nơi cư trú của những người sau này. 3.2.2. Xác định nơi cư trú dựa vào quan hệ gia đình Nơi cư trú của người chưa thành niên.",
+            "metadata": {
+              "volume": 1,
+              "category": "ca_nhan",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 0,
+              "document_type": "giao_trinh",
+              "category_label": "Chủ thể cá nhân",
+              "paragraph_count": 1
+            },
+            "score": 0.550454033206736,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search",
+        "query": "cá nhân nơi cư trú cố định pháp lý",
+        "filter": null,
+        "results": [
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0038:c0000",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 38,
+            "text": "bỏ ghi nhận đó phải tìm cách chứng minh về tính không xác thực của nó31. 3. Nơi cư trú Sự cần thiết của việc xác định nơi cư trú. Hộ tịch giúp phân biệt một cá nhân với một cá nhân khác. Nhưng để xác lập và thực hiện các giao dịch với người khác, cá nhân phải ở trong tình trạng có thể được liên lạc. Cá nhân không liên lạc được không thể được coi là chủ thể hiện thực của quyền và nghĩa vụ pháp lý: người ta sẽ không biết làm thế nào gọi người đó đến để tiếp nhận việc thực hiện một nghĩa vụ hoặc để đáp ứng quyền yêu cầu của một người khác. Trong quan niệm truyền thống, đời sống pháp lý của cá nhân nhất thiết phải gắn với một nơi chốn nào đó. Luật gọi nơi chốn đó là nơi cư trú. Chế định nơi cư trú là biện pháp định vị cá nhân trong không gian, về phương diện pháp lý. Nơi cư trú phải là một điểm cố định trên lãnh thổ chứ không thể là một điểm di động. Điều đó cũng có nghĩa rằng mỗi người chỉ có một nơi cư trú: một người có nơi cư trú tại nhiều hơn một điểm cố định coi như luôn di động giữa các điểm cố định đó. Ta lần lượt nghiên cứu chức năng của nơi cư trú và cách xác định nơi cư trú. 3.1.",
+            "metadata": {
+              "volume": 1,
+              "category": "ca_nhan",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 0,
+              "document_type": "giao_trinh",
+              "category_label": "Chủ thể cá nhân",
+              "paragraph_count": 1
+            },
+            "score": 0.7072770523367672,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0038:c0001",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 38,
+            "text": "Chức năng của nơi cư trú Ðịa chỉ liên lạc của cá nhân và nơi lưu trữ các dữ kiện cơ bản về hộ tịch. Nơi cư trú theo nghĩa pháp lý không nhất thiết là nơi cư trú theo nghĩa vật chất. Con người có thể liên tục thay đổi nơi cư trú vật chất mà vẫn giữ cố định nơi cư trú pháp lý của mình. Về phương diện công pháp, nơi cư trú giữ vai trò địa chỉ liên lạc giữa cá nhân với Nhà nước, cụ thể hơn, với các cơ quan Nhà nước: nhà chức trách thuế vụ gửi giấy báo thuế đến nơi cư trú của người chịu thuế; hội đồng bầu cử gửi thẻ cử tri đến nơi cư trú của cử tri; hội đồng nghĩa vụ quân sự gửi giấy triệu tập để khám sức khoẻ và lệnh gọi nhập ngũ đến nơi cư trú của người phải thi hành nghĩa vụ quân sự;... Ở góc độ tư pháp, chức năng của nơi cư trú khá đa dạng: - Thông thường, nơi cư trú đầu tiên của cá nhân, sau khi ra đời, cũng là nơi đăng ký khai sinh của cá nhân. Nơi đăng ký kết hôn là nơi cư trú của một trong hai bên nam, nữ; nới đăng ký khai tử là nơi cư trú cuối cùng của người chết; nơi cư trú của người xin thay đổi, cải chính hộ tịch là nơi đăng ký việc thay đổi, cải chính hộ tịch;...",
+            "metadata": {
+              "volume": 1,
+              "category": "ca_nhan",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 1,
+              "document_type": "giao_trinh",
+              "category_label": "Chủ thể cá nhân",
+              "paragraph_count": 1
+            },
+            "score": 0.6189533137376806,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0039:c0000",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 39,
+            "text": "người đó thường xuyên sinh sống. Nơi cư trú của công dân là nơi thường trú hoặc nơi tạm trú. Chỗ ở hợp pháp là nhà ở, phương tiện hoặc nhà khác mà công dân sử dụng để cư trú. Chỗ ở hợp pháp có thể thuộc quyền sở hữu của công dân hoặc được cơ quan, tổ chức, cá nhân cho thuê, cho mượn, cho ở nhờ theo quy định của pháp luật.Nơi thường trú là nơi công dân sinh sống thường xuyên, ổn định, không có thời hạn tại một chỗ ở nhất định và đã đăng ký thường trú. Nơi tạm trú là nơi công dân sinh sống ngoài nơi đăng ký thường trú và đã đăng ký tạm trú. Trường hợp không xác định được nơi cư trú của công dân theo quy định trên thì nơi cư trú của công dân là nơi người đó đang sinh sống.” Quy tắc này có lẽ được áp dụng chủ yếu đối với người có đầy đủ năng lực hành vi hoặc từ đủ mười lăm tuổi trở lên và được phép có nơi cư trú riêng trong những trường hợp dự liệu tại các Ðiều 53 khoản 2 và 54 khoản 2 BLDS: người chưa thành niên dưới 15 tuổi có thể cư trú ở một nơi khác với nơi cư trú của cha, mẹ hoặc người giám hộ, nhưng luôn có nơi cư trú (theo luật) trùng với nơi cư trú của những người sau này. 3.2.2. Xác định nơi cư trú dựa vào quan hệ gia đình Nơi cư trú của người chưa thành niên.",
+            "metadata": {
+              "volume": 1,
+              "category": "ca_nhan",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 0,
+              "document_type": "giao_trinh",
+              "category_label": "Chủ thể cá nhân",
+              "paragraph_count": 1
+            },
+            "score": 0.5841590014384209,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search_limit"
+      }
+    ]
+  },
+  {
+    "query_id": "q17",
+    "split": "test",
+    "question": "Theo BLDS 1995, pháp nhân tham gia quan hệ pháp luật dưới danh nghĩa nào?",
+    "answerable": true,
+    "filter": {
+      "category": "phap_nhan"
+    },
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "search_count": 3,
+    "llm_calls": 3,
+    "prompt_tokens": 1974,
+    "completion_tokens": 77,
+    "elapsed_ms": 3290.57,
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo BLDS 1995, pháp nhân tham gia quan hệ pháp luật dưới danh nghĩa nào?",
+        "filter": {
+          "category": "phap_nhan"
+        },
+        "results": [
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0076:c0002",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 76,
+            "text": "Khái quát hoá quan niệm về pháp nhân được xây dựng như trên Pháp lệnh hợp đồng dân sự ngày 29/4/1991 thừa nhận rằng các dấu hiệu cơ bản của pháp nhân bao gồm (Ðiều 4 khoản 2): 1 - Có tài sản riêng và tự chịu trách nhiệm bằng tài sản của mình; 2 - Tham gia quan hệ pháp luật một cách độc lập, có thể là nguyên đơn, bị đơn trước Toà án; 3 - Ðược thành lập hợp pháp và được pháp luật công nhận là một tổ chức độc lập. BLDS năm 1995 chính thức thừa nhận pháp nhân như là một chủ thể của quan hệ pháp luật và định nghĩa pháp nhân như là một tổ chức được cơ quan Nhà nước có thẩm quyền thành lập, cho phép thành lập, đăng ký hoặc công nhận, có cơ cấu tổ chức chặt chẽ, có tài sản độc lập với cá nhân, tổ chức khác và tự chịu trách nhiệm bằng tài sản đó, và nhân danh mình tham gia vào các quan hệ pháp luật một cách độc lập (BLDS 1995 Ðiều 94). Kế thừa định nghĩa trên, BLDS 2005 định nghĩa pháp nhân như là một tổ chức được thành lập hợp pháp; có cơ cấu tổ chức chặt chẽ; có tài sản độc lập với cá nhân, tổ chức khác và tự chịu trách nhiệm bằng tài sản đó; nhân danh mình tham gia các quan hệ pháp luật một cách độc lập (BLDS Điều 84).",
+            "metadata": {
+              "volume": 1,
+              "category": "phap_nhan",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 2,
+              "document_type": "giao_trinh",
+              "category_label": "Chủ thể pháp nhân",
+              "paragraph_count": 1
+            },
+            "score": 0.39775057575081385,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0011:c0002",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 11,
+            "text": "Luật dân sự, trong quan niệm của luật Việt Nam hiện đại, là tập hợp các quy tắc quy định địa vị pháp lý của cá nhân, pháp nhân và các chủ thể khác (hộ gia đình, tổ hợp tác), quy định quyền và nghĩa vụ của các chủ thể trong quan hệ tài sản, quan hệ nhân thân trong giao lưu dân sự, xây dựng chuẩn mực pháp lý cho cách ứng xử của các chủ thể khi tham gia quan hệ dân sự (BLDS năm 1995 - BLDS - Điều 1 đoạn 2) Ta lần lượt tìm hiểu đối tượng điều chỉnh của luật dân sự, nguồn của luật dân sự và sự tiến triển của pháp luật dân sự trong luật Việt Nam. MỤC 1 - ĐỐI TƯỢNG ĐIỀU CHỈNH CỦA LUẬT DÂN SỰ Dựa vào định nghĩa của luật viết hiện hành, có thể xác định rằng luật dân sự Việt Nam giải quyết bốn vấn đề lớn: 1 - Chủ thể của quan hệ pháp luật dân sự gồm những ai ? 2 - Các chủ thể của quan hệ pháp luật dân sự có những quyền và nghĩa vụ gì ? 3 - Các quyền và nghĩa vụ này được xác lập như thế nào ? 4 - Luật dự liệu những biện pháp gì để bảo đảm thực hiện các quyền và nghĩa vụ đó ? 1. Chủ thể của quan hệ pháp luật dân sự",
+            "metadata": {
+              "volume": 1,
+              "category": "intro",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 2,
+              "document_type": "giao_trinh",
+              "category_label": "Giới thiệu Luật dân sự Việt Nam",
+              "paragraph_count": 1
+            },
+            "score": 0.31606849816980076,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0082:c0002",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 82,
+            "text": "Cơ quan này được tổ chức dưới hình thức đại hội thành viên. - Cơ quan chấp hành của pháp nhân: là cơ quan chịu trách nhiệm thực hiện các quyết định của cơ quan quyết nghị, đồng thời đảm nhận việc quản lý đối với các công việc hàng ngày của pháp nhân, kể cả việc đại diện cho pháp nhân trong quan hệ với người thứ ba. Cơ quan chấp hành có thể mang những tên gọi khác nhau: ban giám đốc, hội đồng quản trị, ban quản lý,... Bằng hoạt động của mình, cơ quan chấp hành ràng buộc trách nhiệm của pháp nhân đối với những giao dịch mà cơ quan chấp hành xác lập và thực hiện nhân danh pháp nhân và trong giới hạn quyền và nhiệm vụ được giao. - Cơ quan kiểm soát: là cơ quan có trách nhiệm bảo đảm tính hợp pháp của các hoạt động của pháp nhân. Thông qua hoạt động kiểm soát, cơ quan này đánh giá chất lượng pháp lý của sự vận hành của pháp nhân cũng như của các giao dịch mà pháp nhân xác lập với người thứ ba. 2.2. Năng lực của pháp nhân 2.2.1. Năng lực pháp luật của pháp nhân Tính đặc biệt của pháp nhân. Pháp nhân có năng lực pháp luật kể từ thời điểm tư cách pháp nhân phát sinh.",
+            "metadata": {
+              "volume": 1,
+              "category": "phap_nhan",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 2,
+              "document_type": "giao_trinh",
+              "category_label": "Chủ thể pháp nhân",
+              "paragraph_count": 1
+            },
+            "score": 0.2692430139918015,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search",
+        "query": "pháp nhân tham gia quan hệ pháp luật theo BLDS 1995",
+        "filter": {
+          "category": "phap_nhan"
+        },
+        "results": [
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0076:c0002",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 76,
+            "text": "Khái quát hoá quan niệm về pháp nhân được xây dựng như trên Pháp lệnh hợp đồng dân sự ngày 29/4/1991 thừa nhận rằng các dấu hiệu cơ bản của pháp nhân bao gồm (Ðiều 4 khoản 2): 1 - Có tài sản riêng và tự chịu trách nhiệm bằng tài sản của mình; 2 - Tham gia quan hệ pháp luật một cách độc lập, có thể là nguyên đơn, bị đơn trước Toà án; 3 - Ðược thành lập hợp pháp và được pháp luật công nhận là một tổ chức độc lập. BLDS năm 1995 chính thức thừa nhận pháp nhân như là một chủ thể của quan hệ pháp luật và định nghĩa pháp nhân như là một tổ chức được cơ quan Nhà nước có thẩm quyền thành lập, cho phép thành lập, đăng ký hoặc công nhận, có cơ cấu tổ chức chặt chẽ, có tài sản độc lập với cá nhân, tổ chức khác và tự chịu trách nhiệm bằng tài sản đó, và nhân danh mình tham gia vào các quan hệ pháp luật một cách độc lập (BLDS 1995 Ðiều 94). Kế thừa định nghĩa trên, BLDS 2005 định nghĩa pháp nhân như là một tổ chức được thành lập hợp pháp; có cơ cấu tổ chức chặt chẽ; có tài sản độc lập với cá nhân, tổ chức khác và tự chịu trách nhiệm bằng tài sản đó; nhân danh mình tham gia các quan hệ pháp luật một cách độc lập (BLDS Điều 84).",
+            "metadata": {
+              "volume": 1,
+              "category": "phap_nhan",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 2,
+              "document_type": "giao_trinh",
+              "category_label": "Chủ thể pháp nhân",
+              "paragraph_count": 1
+            },
+            "score": 0.4266366224047685,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0011:c0002",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 11,
+            "text": "Luật dân sự, trong quan niệm của luật Việt Nam hiện đại, là tập hợp các quy tắc quy định địa vị pháp lý của cá nhân, pháp nhân và các chủ thể khác (hộ gia đình, tổ hợp tác), quy định quyền và nghĩa vụ của các chủ thể trong quan hệ tài sản, quan hệ nhân thân trong giao lưu dân sự, xây dựng chuẩn mực pháp lý cho cách ứng xử của các chủ thể khi tham gia quan hệ dân sự (BLDS năm 1995 - BLDS - Điều 1 đoạn 2) Ta lần lượt tìm hiểu đối tượng điều chỉnh của luật dân sự, nguồn của luật dân sự và sự tiến triển của pháp luật dân sự trong luật Việt Nam. MỤC 1 - ĐỐI TƯỢNG ĐIỀU CHỈNH CỦA LUẬT DÂN SỰ Dựa vào định nghĩa của luật viết hiện hành, có thể xác định rằng luật dân sự Việt Nam giải quyết bốn vấn đề lớn: 1 - Chủ thể của quan hệ pháp luật dân sự gồm những ai ? 2 - Các chủ thể của quan hệ pháp luật dân sự có những quyền và nghĩa vụ gì ? 3 - Các quyền và nghĩa vụ này được xác lập như thế nào ? 4 - Luật dự liệu những biện pháp gì để bảo đảm thực hiện các quyền và nghĩa vụ đó ? 1. Chủ thể của quan hệ pháp luật dân sự",
+            "metadata": {
+              "volume": 1,
+              "category": "intro",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 2,
+              "document_type": "giao_trinh",
+              "category_label": "Giới thiệu Luật dân sự Việt Nam",
+              "paragraph_count": 1
+            },
+            "score": 0.33915350733953414,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0082:c0001",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 82,
+            "text": "Để ngăn ngừa sự lạm quyền của một hoặc một nhóm cá nhân trong việc điều hành pháp nhân cũng như trong các hoạt động đối ngoại của pháp nhân, việc phân chia pháp nhân thành nhiều cơ quan tỏ ra cần thiết. Việc tổ chức các cơ quan của các pháp nhân tư pháp và pháp nhân hỗn hợp được thực hiện theo đúng điều lệ mà pháp nhân có quyền (và có nghĩa vụ) xây dựng. Ðiều lệ của pháp nhân phải có hình thức và nội dung phù hợp với các quy định của pháp luật áp dụng đối với từng loại pháp nhân. Ðiều lệ của pháp nhân, một khi được xây dựng và thông qua đúng luật, có hiệu lực bắt buộc thi hành đối với tất cả thành viên của pháp nhân. Không chấp nhận điều lệ, thành viên chỉ có mỗi cách xử sự đúng luật là xin ra khỏi pháp nhân. Điều lệ hợp pháp của pháp nhân cũng có hiệu lực đối kháng với người thứ ba. Một cách tổng quát, pháp nhân tư pháp và pháp nhân hỗn hợp có hai nhóm cơ quan chính: cơ quan quyết nghị và cơ quan chấp hành. Một số pháp nhân có quy mô tổ chức lớn còn có thêm cơ quan kiểm soát. - Cơ quan quyết nghị của pháp nhân: là cơ quan có quyền quyết định cao nhất của pháp nhân và có cả khả năng định đoạt số phận pháp lý của pháp nhân (sáp nhập, giải thể,..).",
+            "metadata": {
+              "volume": 1,
+              "category": "phap_nhan",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 1,
+              "document_type": "giao_trinh",
+              "category_label": "Chủ thể pháp nhân",
+              "paragraph_count": 1
+            },
+            "score": 0.3119353084779597,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search",
+        "query": "pháp nhân tham gia quan hệ pháp luật BLDS 1995",
+        "filter": {
+          "category": "phap_nhan"
+        },
+        "results": [
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0076:c0002",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 76,
+            "text": "Khái quát hoá quan niệm về pháp nhân được xây dựng như trên Pháp lệnh hợp đồng dân sự ngày 29/4/1991 thừa nhận rằng các dấu hiệu cơ bản của pháp nhân bao gồm (Ðiều 4 khoản 2): 1 - Có tài sản riêng và tự chịu trách nhiệm bằng tài sản của mình; 2 - Tham gia quan hệ pháp luật một cách độc lập, có thể là nguyên đơn, bị đơn trước Toà án; 3 - Ðược thành lập hợp pháp và được pháp luật công nhận là một tổ chức độc lập. BLDS năm 1995 chính thức thừa nhận pháp nhân như là một chủ thể của quan hệ pháp luật và định nghĩa pháp nhân như là một tổ chức được cơ quan Nhà nước có thẩm quyền thành lập, cho phép thành lập, đăng ký hoặc công nhận, có cơ cấu tổ chức chặt chẽ, có tài sản độc lập với cá nhân, tổ chức khác và tự chịu trách nhiệm bằng tài sản đó, và nhân danh mình tham gia vào các quan hệ pháp luật một cách độc lập (BLDS 1995 Ðiều 94). Kế thừa định nghĩa trên, BLDS 2005 định nghĩa pháp nhân như là một tổ chức được thành lập hợp pháp; có cơ cấu tổ chức chặt chẽ; có tài sản độc lập với cá nhân, tổ chức khác và tự chịu trách nhiệm bằng tài sản đó; nhân danh mình tham gia các quan hệ pháp luật một cách độc lập (BLDS Điều 84).",
+            "metadata": {
+              "volume": 1,
+              "category": "phap_nhan",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 2,
+              "document_type": "giao_trinh",
+              "category_label": "Chủ thể pháp nhân",
+              "paragraph_count": 1
+            },
+            "score": 0.4341354541480454,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0011:c0002",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 11,
+            "text": "Luật dân sự, trong quan niệm của luật Việt Nam hiện đại, là tập hợp các quy tắc quy định địa vị pháp lý của cá nhân, pháp nhân và các chủ thể khác (hộ gia đình, tổ hợp tác), quy định quyền và nghĩa vụ của các chủ thể trong quan hệ tài sản, quan hệ nhân thân trong giao lưu dân sự, xây dựng chuẩn mực pháp lý cho cách ứng xử của các chủ thể khi tham gia quan hệ dân sự (BLDS năm 1995 - BLDS - Điều 1 đoạn 2) Ta lần lượt tìm hiểu đối tượng điều chỉnh của luật dân sự, nguồn của luật dân sự và sự tiến triển của pháp luật dân sự trong luật Việt Nam. MỤC 1 - ĐỐI TƯỢNG ĐIỀU CHỈNH CỦA LUẬT DÂN SỰ Dựa vào định nghĩa của luật viết hiện hành, có thể xác định rằng luật dân sự Việt Nam giải quyết bốn vấn đề lớn: 1 - Chủ thể của quan hệ pháp luật dân sự gồm những ai ? 2 - Các chủ thể của quan hệ pháp luật dân sự có những quyền và nghĩa vụ gì ? 3 - Các quyền và nghĩa vụ này được xác lập như thế nào ? 4 - Luật dự liệu những biện pháp gì để bảo đảm thực hiện các quyền và nghĩa vụ đó ? 1. Chủ thể của quan hệ pháp luật dân sự",
+            "metadata": {
+              "volume": 1,
+              "category": "intro",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 2,
+              "document_type": "giao_trinh",
+              "category_label": "Giới thiệu Luật dân sự Việt Nam",
+              "paragraph_count": 1
+            },
+            "score": 0.3451146812123867,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0082:c0001",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 82,
+            "text": "Để ngăn ngừa sự lạm quyền của một hoặc một nhóm cá nhân trong việc điều hành pháp nhân cũng như trong các hoạt động đối ngoại của pháp nhân, việc phân chia pháp nhân thành nhiều cơ quan tỏ ra cần thiết. Việc tổ chức các cơ quan của các pháp nhân tư pháp và pháp nhân hỗn hợp được thực hiện theo đúng điều lệ mà pháp nhân có quyền (và có nghĩa vụ) xây dựng. Ðiều lệ của pháp nhân phải có hình thức và nội dung phù hợp với các quy định của pháp luật áp dụng đối với từng loại pháp nhân. Ðiều lệ của pháp nhân, một khi được xây dựng và thông qua đúng luật, có hiệu lực bắt buộc thi hành đối với tất cả thành viên của pháp nhân. Không chấp nhận điều lệ, thành viên chỉ có mỗi cách xử sự đúng luật là xin ra khỏi pháp nhân. Điều lệ hợp pháp của pháp nhân cũng có hiệu lực đối kháng với người thứ ba. Một cách tổng quát, pháp nhân tư pháp và pháp nhân hỗn hợp có hai nhóm cơ quan chính: cơ quan quyết nghị và cơ quan chấp hành. Một số pháp nhân có quy mô tổ chức lớn còn có thêm cơ quan kiểm soát. - Cơ quan quyết nghị của pháp nhân: là cơ quan có quyền quyết định cao nhất của pháp nhân và có cả khả năng định đoạt số phận pháp lý của pháp nhân (sáp nhập, giải thể,..).",
+            "metadata": {
+              "volume": 1,
+              "category": "phap_nhan",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 1,
+              "document_type": "giao_trinh",
+              "category_label": "Chủ thể pháp nhân",
+              "paragraph_count": 1
+            },
+            "score": 0.3134819027583726,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search_limit"
+      }
+    ]
+  },
+  {
+    "query_id": "q18",
+    "split": "test",
+    "question": "Vì sao vật tiêu hao không thể là đối tượng của hợp đồng cho thuê hoặc cho mượn?",
+    "answerable": true,
+    "filter": null,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "search_count": 2,
+    "llm_calls": 2,
+    "prompt_tokens": 1752,
+    "completion_tokens": 46,
+    "elapsed_ms": 2253.98,
+    "events": [
+      {
+        "event": "search",
+        "query": "Vì sao vật tiêu hao không thể là đối tượng của hợp đồng cho thuê hoặc cho mượn?",
+        "filter": null,
+        "results": [
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0097:c0001",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 97,
+            "text": "Ví dụ như tập, vở, bút viết, quần áo, đồ gia dụng... Danh sách sản phẩm tiêu dùng được bổ sung theo sự phát triển của xã hội và sự rút ngắn của chu kỳ đổi mới công nghệ. Tất cả các tài sản tiêu dùng đều là động sản. BLDS chỉ nêu ra lợi ích của việc xác định tài sản nào đó là vật tiêu hao hay không tiêu hao tại Điều 178, khoản 1 BLDS như sau:“ Vật tiêu hao không thể là đối tượng của hợp đồng cho thuê hoặc hợp đồng cho mượn”. Nghĩa là các tài sản có thể cho thuê, cho mượn không thể là những vật tiêu hao. Thật vậy, đối với tài sản tiêu hao, sử dụng đồng nghĩa với định đoạt và chuyển quyền sử dụng bao hàm cả việc chuyển quyền sở hữu. Tài sản tiêu hao không thể cho thuê, cho mượn nhưng lại có thể cho “mượn” để tiêu dùng hay định đoạt. Loại giao dịch này luật viết hiện hành gọi tên là hợp đồng vay tài sản (Điều 471 BLDS). Khi đó, người vay nhận tài sản, sau một thời gian (sử dụng tự do), phải trả lại cho người cho vay vật cùng loại có giá trị tương đương với vật đã vay trước đó. Loại giao dịch này khá phổ biến trong cuộc sống (như vay tiền, vay gạo...) cũng như trong giao dịch kinh doanh (vay hàng, vay vật tư...). 4.",
+            "metadata": {
+              "volume": 1,
+              "category": "tai_san_quyen_so_huu",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 1,
+              "document_type": "giao_trinh",
+              "category_label": "Tài sản và quyền sở hữu",
+              "paragraph_count": 1
+            },
+            "score": 0.5633357075513276,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0097:c0000",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 97,
+            "text": "- Vật tiêu hao là vật khi đã qua sử dụng một lần thì mất đi hoặc không giữ được tính chất, hình dáng và tính năng sử dụng ban đầu. - Vật không tiêu hao là vật khi đã qua sử dụng nhiều lần mà cơ bản vẫn giữ được tính chất, hình dáng, tính năng sử dụng như ban đầu. Chúng ta có thể lấy rất nhiều ví dụ cho hai loại tài sản này. Thức ăn, nguyên nhiên liệu là vật tiêu hao. Quần áo, xe máy, TV, ...là những vật không tiêu hao. Tiền là vật tiêu hao không phải do sử dụng mà do được dùng để thanh toán trong lưu thông. Những bất động sản là vật không tiêu hao... Vật tiêu hao có thể biến mất hoàn toàn về mặt vật chất sau lần sử dụng đầu tiên; cũng có những vật tiêu hao không hoàn toàn biến mất nhưng không còn mang tính chất, hình dáng và tính năng ban đầu sau một lần sử dụng mà lại mang tính chất, hình dáng, tính năng của một vật khác. Chẳng hạn như băng cassette, đĩa CD,... Và có những vật, khi qua một lần sử dụng không mất đi về mặt vật chất và qua nhiều lần sử dụng vẫn giữ được tính chất, hình dáng, tính năng ban đầu nhưng lại giảm giá trị rất nhanh và sẽ được thay thế sau một thời gian ngắn. Ta gọi đó là vật tiêu dùng - loại vật trung gian giữa vật tiêu hao và vật không tiêu hao.",
+            "metadata": {
+              "volume": 1,
+              "category": "tai_san_quyen_so_huu",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 0,
+              "document_type": "giao_trinh",
+              "category_label": "Tài sản và quyền sở hữu",
+              "paragraph_count": 1
+            },
+            "score": 0.4212894725000568,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0096:c0000",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 96,
+            "text": "giao cả vật phụ, trừ trường hợp có thỏa thuận khác.”. Ta có giải pháp truyền thống của luật Latinh: “ vật phụ cùng số phận của vật chính”. Như vậy, - Khi vật chính được mua bán, tặng cho, trao đổi, di tặng, góp vốn vào công ty thì vật phụ cũng mặc nhiên đi theo, nếu không có thỏa thuận khác. - Trong trường hợp một vật được gắn với một vật khác như là vật phụ của vật đó, thì vật mới được tạo thành thuộc về chủ sở hữu của vật chính. (Điều 236 BLDS) 3. Vật tiêu hao và vật không tiêu hao Cách thức phân loại này được xây dựng căn cứ vào mức độ hao mòn khi sử dụng của tài sản. Theo Điều 178 BLDS:",
+            "metadata": {
+              "volume": 1,
+              "category": "tai_san_quyen_so_huu",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 0,
+              "document_type": "giao_trinh",
+              "category_label": "Tài sản và quyền sở hữu",
+              "paragraph_count": 1
+            },
+            "score": 0.33460099957286626,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0096:c0000 | starter/data/LuatVietNam.pdf | page 96]\ngiao cả vật phụ, trừ trường hợp có thỏa thuận khác.”. Ta có giải pháp truyền thống của luật Latinh: “ vật phụ cùng số phận của vật chính”. Như vậy, - Khi vật chính được mua bán, tặng cho, trao đổi, di tặng, góp vốn vào công ty thì vật phụ cũng mặc nhiên đi theo, nếu không có thỏa thuận khác. - Trong trường hợp một vật được gắn với một vật khác như là vật phụ của vật đó, thì vật mới được tạo thành thuộc về chủ sở hữu của vật chính. (Điều 236 BLDS) 3. Vật tiêu hao và vật không tiêu hao Cách thức phân loại này được xây dựng căn cứ vào mức độ hao mòn khi sử dụng của tài sản. Theo Điều 178 BLDS:",
+        "context_ids": [
+          "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0096:c0000"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "vật tiêu hao không thể là đối tượng của hợp đồng cho thuê hoặc cho mượn",
+        "filter": null,
+        "results": [
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0097:c0001",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 97,
+            "text": "Ví dụ như tập, vở, bút viết, quần áo, đồ gia dụng... Danh sách sản phẩm tiêu dùng được bổ sung theo sự phát triển của xã hội và sự rút ngắn của chu kỳ đổi mới công nghệ. Tất cả các tài sản tiêu dùng đều là động sản. BLDS chỉ nêu ra lợi ích của việc xác định tài sản nào đó là vật tiêu hao hay không tiêu hao tại Điều 178, khoản 1 BLDS như sau:“ Vật tiêu hao không thể là đối tượng của hợp đồng cho thuê hoặc hợp đồng cho mượn”. Nghĩa là các tài sản có thể cho thuê, cho mượn không thể là những vật tiêu hao. Thật vậy, đối với tài sản tiêu hao, sử dụng đồng nghĩa với định đoạt và chuyển quyền sử dụng bao hàm cả việc chuyển quyền sở hữu. Tài sản tiêu hao không thể cho thuê, cho mượn nhưng lại có thể cho “mượn” để tiêu dùng hay định đoạt. Loại giao dịch này luật viết hiện hành gọi tên là hợp đồng vay tài sản (Điều 471 BLDS). Khi đó, người vay nhận tài sản, sau một thời gian (sử dụng tự do), phải trả lại cho người cho vay vật cùng loại có giá trị tương đương với vật đã vay trước đó. Loại giao dịch này khá phổ biến trong cuộc sống (như vay tiền, vay gạo...) cũng như trong giao dịch kinh doanh (vay hàng, vay vật tư...). 4.",
+            "metadata": {
+              "volume": 1,
+              "category": "tai_san_quyen_so_huu",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 1,
+              "document_type": "giao_trinh",
+              "category_label": "Tài sản và quyền sở hữu",
+              "paragraph_count": 1
+            },
+            "score": 0.6300877613348375,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0097:c0000",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 97,
+            "text": "- Vật tiêu hao là vật khi đã qua sử dụng một lần thì mất đi hoặc không giữ được tính chất, hình dáng và tính năng sử dụng ban đầu. - Vật không tiêu hao là vật khi đã qua sử dụng nhiều lần mà cơ bản vẫn giữ được tính chất, hình dáng, tính năng sử dụng như ban đầu. Chúng ta có thể lấy rất nhiều ví dụ cho hai loại tài sản này. Thức ăn, nguyên nhiên liệu là vật tiêu hao. Quần áo, xe máy, TV, ...là những vật không tiêu hao. Tiền là vật tiêu hao không phải do sử dụng mà do được dùng để thanh toán trong lưu thông. Những bất động sản là vật không tiêu hao... Vật tiêu hao có thể biến mất hoàn toàn về mặt vật chất sau lần sử dụng đầu tiên; cũng có những vật tiêu hao không hoàn toàn biến mất nhưng không còn mang tính chất, hình dáng và tính năng ban đầu sau một lần sử dụng mà lại mang tính chất, hình dáng, tính năng của một vật khác. Chẳng hạn như băng cassette, đĩa CD,... Và có những vật, khi qua một lần sử dụng không mất đi về mặt vật chất và qua nhiều lần sử dụng vẫn giữ được tính chất, hình dáng, tính năng ban đầu nhưng lại giảm giá trị rất nhanh và sẽ được thay thế sau một thời gian ngắn. Ta gọi đó là vật tiêu dùng - loại vật trung gian giữa vật tiêu hao và vật không tiêu hao.",
+            "metadata": {
+              "volume": 1,
+              "category": "tai_san_quyen_so_huu",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 0,
+              "document_type": "giao_trinh",
+              "category_label": "Tài sản và quyền sở hữu",
+              "paragraph_count": 1
+            },
+            "score": 0.4712098612660894,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0096:c0000",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 96,
+            "text": "giao cả vật phụ, trừ trường hợp có thỏa thuận khác.”. Ta có giải pháp truyền thống của luật Latinh: “ vật phụ cùng số phận của vật chính”. Như vậy, - Khi vật chính được mua bán, tặng cho, trao đổi, di tặng, góp vốn vào công ty thì vật phụ cũng mặc nhiên đi theo, nếu không có thỏa thuận khác. - Trong trường hợp một vật được gắn với một vật khác như là vật phụ của vật đó, thì vật mới được tạo thành thuộc về chủ sở hữu của vật chính. (Điều 236 BLDS) 3. Vật tiêu hao và vật không tiêu hao Cách thức phân loại này được xây dựng căn cứ vào mức độ hao mòn khi sử dụng của tài sản. Theo Điều 178 BLDS:",
+            "metadata": {
+              "volume": 1,
+              "category": "tai_san_quyen_so_huu",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 0,
+              "document_type": "giao_trinh",
+              "category_label": "Tài sản và quyền sở hữu",
+              "paragraph_count": 1
+            },
+            "score": 0.374249300967766,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0096:c0000 | starter/data/LuatVietNam.pdf | page 96]\ngiao cả vật phụ, trừ trường hợp có thỏa thuận khác.”. Ta có giải pháp truyền thống của luật Latinh: “ vật phụ cùng số phận của vật chính”. Như vậy, - Khi vật chính được mua bán, tặng cho, trao đổi, di tặng, góp vốn vào công ty thì vật phụ cũng mặc nhiên đi theo, nếu không có thỏa thuận khác. - Trong trường hợp một vật được gắn với một vật khác như là vật phụ của vật đó, thì vật mới được tạo thành thuộc về chủ sở hữu của vật chính. (Điều 236 BLDS) 3. Vật tiêu hao và vật không tiêu hao Cách thức phân loại này được xây dựng căn cứ vào mức độ hao mòn khi sử dụng của tài sản. Theo Điều 178 BLDS:",
+        "context_ids": [
+          "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0096:c0000"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ]
+  },
+  {
+    "query_id": "q19",
+    "split": "test",
+    "question": "Để xác lập quyền sở hữu theo thời hiệu, việc chiếm hữu phải đáp ứng những yêu cầu nào?",
+    "answerable": true,
+    "filter": null,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "search_count": 3,
+    "llm_calls": 3,
+    "prompt_tokens": 1987,
+    "completion_tokens": 74,
+    "elapsed_ms": 3669.67,
+    "events": [
+      {
+        "event": "search",
+        "query": "Để xác lập quyền sở hữu theo thời hiệu, việc chiếm hữu phải đáp ứng những yêu cầu nào?",
+        "filter": null,
+        "results": [
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0116:c0000",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 116,
+            "text": "đối với bất động sản, thì trở thành chủ sở hữu tài sản đó, kể từ thời điểm bắt đầu chiếm hữu\" trừ trường hợp \"chiếm hữu tài sản thuộc sở hữu nhà nước, không có căn cứ pháp luật thì dù ngay tình, liên tục, công khai, dù thời gian chiếm hữu là bao lâu” thì người chiếm hữu tài sản đó cũng không thể trở thành chủ sở hữu hợp pháp được. Tuy nhiên, rõ ràng luật viết đã không quy định rõ cách tính thời hiệu trong việc xác lập quyền sở hữu theo căn cứ này. Về mặt lý luận, có thể lý giải vấn đề này theo nhiều cách: Cách thứ nhất, không có sự kết nối việc chiếm hữu - Thời hạn mười năm hoặc ba mươi năm nói trên được tính từ ngày người xác lập quyền sở hữu do thời hiệu thực sự chiếm hữu tài sản một cách ngay tình. Nếu người này chuyển nhượng tài sản cho người khác lúc còn sống hoặc di tặng tài sản mà chưa kịp xác lập quyền sở hữu theo thời hiệu, thì thời hiệu được tính lại từ đầu cho người chiếm hữu mới. Cách thứ hai, có kết nối việc chiếm hữu với điều kiện tất cả những người chiếm hữu liên tiếp đều ngay tình - Thời hạn mười năm hoặc ba mươi năm nói trên được tính từ ngày chiếm hữu của người chiếm hữu ngay tình đầu tiên.",
+            "metadata": {
+              "volume": 1,
+              "category": "tai_san_quyen_so_huu",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 0,
+              "document_type": "giao_trinh",
+              "category_label": "Tài sản và quyền sở hữu",
+              "paragraph_count": 1
+            },
+            "score": 0.4585639385182583,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0113:c0000",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 113,
+            "text": "vẫn có quyền chiếm hữu vật chất nhưng không có quyền chiếm hữu về mặt pháp lý, bởi tài sản vào lúc này thuộc quyền sở hữu của người khác. 3.1.4. Chiếm hữu không hoàn hảo102 Dẫn nhập - Điều 247, khoản 1 BLDS quy định: ” người chiếm hữu, người được lợi về tài sản không có căn cứ pháp luật nhưng ngay tình, liên tục, công khai trong thời hạn 10 năm đối với động sản, 30 năm đối với bất động sản, thì trở thành chủ sở hữu tài sản đó, kể từ thời điểm chiếm hữu...”. Từ nội dung điều luật, ta có thể rút ra một nguyên tắc rằng quyền sở hữu theo thời hiệu sẽ không được xác lập nếu thiếu bất cứ một trong những yếu tố nào đã được quy định tại Điều 247 BLDS. Vấn đề đặt ra ở đây là như thế nào là chiếm hữu không liên tục, chiếm hữu gián đoạn, chiếm hữu không công khai, hoặc những trường hợp khác không thể xác lập quyền sở hữu theo thời hiệu theo Điều 247 BLDS. Chiếm hữu không liên tục - Theo Điều 190 BLDS, “việc chiếm hữu tài sản được thực hiện trong một khoảng thời gian mà không có tranh chấp về tài sản đó là chiếm hữu liên tục, kể cả khi tài sản được giao cho người khác chiếm hữu”.",
+            "metadata": {
+              "volume": 1,
+              "category": "tai_san_quyen_so_huu",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 0,
+              "document_type": "giao_trinh",
+              "category_label": "Tài sản và quyền sở hữu",
+              "paragraph_count": 1
+            },
+            "score": 0.4582981308584143,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0113:c0002",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 113,
+            "text": "Do đó, có thể nói rằng sự chiếm hữu công khai theo ý nghĩa pháp lý chỉ là một khái niệm tương đối. Chiếm hữu không có căn cứ pháp luật nhưng ngay tình -Theo Điều 189 BLDS: “Người chiếm hữu tài sản không có căn cứ pháp luật nhưng ngay tình là người chiếm hữu mà không biết và không thể biết việc chiếm hữu tài sản đó là không có căn cứ pháp luật.” 3.1.5. Hiệu lực của quyền chiếm hữu của chủ sở hữu Bảo vệ quyền chiếm hữu - Quyền chiếm hữu của chủ sở hữu được bảo vệ trong khuôn khổ những quy định chung về bảo vệ quyền sở hữu được ghi nhận tại các Điều từ 255 đến 261 BLDS. Theo đó, người chiếm hữu là chủ s ở hữu đích thực đối với tài sản có quyền yêu cầu Tòa án, cơ quan Nhà nước có thẩm quyền khác buộc người có hành vi xâm phạm quyền sở hữu, quyền chiếm hữu phải trả lại tài sản, chấm dứt hành vi cản trở việc thực hiện quyền sở hữu, quyền chiếm hữu trái pháp luật, và yêu cầu bồi thường thiệt hại. Luật viết hiện hành ghi nhận trường hợp một người xác lập quyền chiếm hữu của chủ sở\n\n102 còn gọi là chiếm hữu có tì vết (vice)",
+            "metadata": {
+              "volume": 1,
+              "category": "tai_san_quyen_so_huu",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 2,
+              "document_type": "giao_trinh",
+              "category_label": "Tài sản và quyền sở hữu",
+              "paragraph_count": 2
+            },
+            "score": 0.4564796855875782,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search",
+        "query": "quyền sở hữu theo thời hiệu yêu cầu chiếm hữu",
+        "filter": null,
+        "results": [
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0113:c0002",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 113,
+            "text": "Do đó, có thể nói rằng sự chiếm hữu công khai theo ý nghĩa pháp lý chỉ là một khái niệm tương đối. Chiếm hữu không có căn cứ pháp luật nhưng ngay tình -Theo Điều 189 BLDS: “Người chiếm hữu tài sản không có căn cứ pháp luật nhưng ngay tình là người chiếm hữu mà không biết và không thể biết việc chiếm hữu tài sản đó là không có căn cứ pháp luật.” 3.1.5. Hiệu lực của quyền chiếm hữu của chủ sở hữu Bảo vệ quyền chiếm hữu - Quyền chiếm hữu của chủ sở hữu được bảo vệ trong khuôn khổ những quy định chung về bảo vệ quyền sở hữu được ghi nhận tại các Điều từ 255 đến 261 BLDS. Theo đó, người chiếm hữu là chủ s ở hữu đích thực đối với tài sản có quyền yêu cầu Tòa án, cơ quan Nhà nước có thẩm quyền khác buộc người có hành vi xâm phạm quyền sở hữu, quyền chiếm hữu phải trả lại tài sản, chấm dứt hành vi cản trở việc thực hiện quyền sở hữu, quyền chiếm hữu trái pháp luật, và yêu cầu bồi thường thiệt hại. Luật viết hiện hành ghi nhận trường hợp một người xác lập quyền chiếm hữu của chủ sở\n\n102 còn gọi là chiếm hữu có tì vết (vice)",
+            "metadata": {
+              "volume": 1,
+              "category": "tai_san_quyen_so_huu",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 2,
+              "document_type": "giao_trinh",
+              "category_label": "Tài sản và quyền sở hữu",
+              "paragraph_count": 2
+            },
+            "score": 0.617093080906233,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0116:c0000",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 116,
+            "text": "đối với bất động sản, thì trở thành chủ sở hữu tài sản đó, kể từ thời điểm bắt đầu chiếm hữu\" trừ trường hợp \"chiếm hữu tài sản thuộc sở hữu nhà nước, không có căn cứ pháp luật thì dù ngay tình, liên tục, công khai, dù thời gian chiếm hữu là bao lâu” thì người chiếm hữu tài sản đó cũng không thể trở thành chủ sở hữu hợp pháp được. Tuy nhiên, rõ ràng luật viết đã không quy định rõ cách tính thời hiệu trong việc xác lập quyền sở hữu theo căn cứ này. Về mặt lý luận, có thể lý giải vấn đề này theo nhiều cách: Cách thứ nhất, không có sự kết nối việc chiếm hữu - Thời hạn mười năm hoặc ba mươi năm nói trên được tính từ ngày người xác lập quyền sở hữu do thời hiệu thực sự chiếm hữu tài sản một cách ngay tình. Nếu người này chuyển nhượng tài sản cho người khác lúc còn sống hoặc di tặng tài sản mà chưa kịp xác lập quyền sở hữu theo thời hiệu, thì thời hiệu được tính lại từ đầu cho người chiếm hữu mới. Cách thứ hai, có kết nối việc chiếm hữu với điều kiện tất cả những người chiếm hữu liên tiếp đều ngay tình - Thời hạn mười năm hoặc ba mươi năm nói trên được tính từ ngày chiếm hữu của người chiếm hữu ngay tình đầu tiên.",
+            "metadata": {
+              "volume": 1,
+              "category": "tai_san_quyen_so_huu",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 0,
+              "document_type": "giao_trinh",
+              "category_label": "Tài sản và quyền sở hữu",
+              "paragraph_count": 1
+            },
+            "score": 0.5964144675158239,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0113:c0000",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 113,
+            "text": "vẫn có quyền chiếm hữu vật chất nhưng không có quyền chiếm hữu về mặt pháp lý, bởi tài sản vào lúc này thuộc quyền sở hữu của người khác. 3.1.4. Chiếm hữu không hoàn hảo102 Dẫn nhập - Điều 247, khoản 1 BLDS quy định: ” người chiếm hữu, người được lợi về tài sản không có căn cứ pháp luật nhưng ngay tình, liên tục, công khai trong thời hạn 10 năm đối với động sản, 30 năm đối với bất động sản, thì trở thành chủ sở hữu tài sản đó, kể từ thời điểm chiếm hữu...”. Từ nội dung điều luật, ta có thể rút ra một nguyên tắc rằng quyền sở hữu theo thời hiệu sẽ không được xác lập nếu thiếu bất cứ một trong những yếu tố nào đã được quy định tại Điều 247 BLDS. Vấn đề đặt ra ở đây là như thế nào là chiếm hữu không liên tục, chiếm hữu gián đoạn, chiếm hữu không công khai, hoặc những trường hợp khác không thể xác lập quyền sở hữu theo thời hiệu theo Điều 247 BLDS. Chiếm hữu không liên tục - Theo Điều 190 BLDS, “việc chiếm hữu tài sản được thực hiện trong một khoảng thời gian mà không có tranh chấp về tài sản đó là chiếm hữu liên tục, kể cả khi tài sản được giao cho người khác chiếm hữu”.",
+            "metadata": {
+              "volume": 1,
+              "category": "tai_san_quyen_so_huu",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 0,
+              "document_type": "giao_trinh",
+              "category_label": "Tài sản và quyền sở hữu",
+              "paragraph_count": 1
+            },
+            "score": 0.5830218735028961,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search",
+        "query": "quyền sở hữu theo thời hiệu yêu cầu chiếm hữu",
+        "filter": null,
+        "results": [
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0113:c0002",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 113,
+            "text": "Do đó, có thể nói rằng sự chiếm hữu công khai theo ý nghĩa pháp lý chỉ là một khái niệm tương đối. Chiếm hữu không có căn cứ pháp luật nhưng ngay tình -Theo Điều 189 BLDS: “Người chiếm hữu tài sản không có căn cứ pháp luật nhưng ngay tình là người chiếm hữu mà không biết và không thể biết việc chiếm hữu tài sản đó là không có căn cứ pháp luật.” 3.1.5. Hiệu lực của quyền chiếm hữu của chủ sở hữu Bảo vệ quyền chiếm hữu - Quyền chiếm hữu của chủ sở hữu được bảo vệ trong khuôn khổ những quy định chung về bảo vệ quyền sở hữu được ghi nhận tại các Điều từ 255 đến 261 BLDS. Theo đó, người chiếm hữu là chủ s ở hữu đích thực đối với tài sản có quyền yêu cầu Tòa án, cơ quan Nhà nước có thẩm quyền khác buộc người có hành vi xâm phạm quyền sở hữu, quyền chiếm hữu phải trả lại tài sản, chấm dứt hành vi cản trở việc thực hiện quyền sở hữu, quyền chiếm hữu trái pháp luật, và yêu cầu bồi thường thiệt hại. Luật viết hiện hành ghi nhận trường hợp một người xác lập quyền chiếm hữu của chủ sở\n\n102 còn gọi là chiếm hữu có tì vết (vice)",
+            "metadata": {
+              "volume": 1,
+              "category": "tai_san_quyen_so_huu",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 2,
+              "document_type": "giao_trinh",
+              "category_label": "Tài sản và quyền sở hữu",
+              "paragraph_count": 2
+            },
+            "score": 0.617093080906233,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0116:c0000",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 116,
+            "text": "đối với bất động sản, thì trở thành chủ sở hữu tài sản đó, kể từ thời điểm bắt đầu chiếm hữu\" trừ trường hợp \"chiếm hữu tài sản thuộc sở hữu nhà nước, không có căn cứ pháp luật thì dù ngay tình, liên tục, công khai, dù thời gian chiếm hữu là bao lâu” thì người chiếm hữu tài sản đó cũng không thể trở thành chủ sở hữu hợp pháp được. Tuy nhiên, rõ ràng luật viết đã không quy định rõ cách tính thời hiệu trong việc xác lập quyền sở hữu theo căn cứ này. Về mặt lý luận, có thể lý giải vấn đề này theo nhiều cách: Cách thứ nhất, không có sự kết nối việc chiếm hữu - Thời hạn mười năm hoặc ba mươi năm nói trên được tính từ ngày người xác lập quyền sở hữu do thời hiệu thực sự chiếm hữu tài sản một cách ngay tình. Nếu người này chuyển nhượng tài sản cho người khác lúc còn sống hoặc di tặng tài sản mà chưa kịp xác lập quyền sở hữu theo thời hiệu, thì thời hiệu được tính lại từ đầu cho người chiếm hữu mới. Cách thứ hai, có kết nối việc chiếm hữu với điều kiện tất cả những người chiếm hữu liên tiếp đều ngay tình - Thời hạn mười năm hoặc ba mươi năm nói trên được tính từ ngày chiếm hữu của người chiếm hữu ngay tình đầu tiên.",
+            "metadata": {
+              "volume": 1,
+              "category": "tai_san_quyen_so_huu",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 0,
+              "document_type": "giao_trinh",
+              "category_label": "Tài sản và quyền sở hữu",
+              "paragraph_count": 1
+            },
+            "score": 0.5964144675158239,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0113:c0000",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 113,
+            "text": "vẫn có quyền chiếm hữu vật chất nhưng không có quyền chiếm hữu về mặt pháp lý, bởi tài sản vào lúc này thuộc quyền sở hữu của người khác. 3.1.4. Chiếm hữu không hoàn hảo102 Dẫn nhập - Điều 247, khoản 1 BLDS quy định: ” người chiếm hữu, người được lợi về tài sản không có căn cứ pháp luật nhưng ngay tình, liên tục, công khai trong thời hạn 10 năm đối với động sản, 30 năm đối với bất động sản, thì trở thành chủ sở hữu tài sản đó, kể từ thời điểm chiếm hữu...”. Từ nội dung điều luật, ta có thể rút ra một nguyên tắc rằng quyền sở hữu theo thời hiệu sẽ không được xác lập nếu thiếu bất cứ một trong những yếu tố nào đã được quy định tại Điều 247 BLDS. Vấn đề đặt ra ở đây là như thế nào là chiếm hữu không liên tục, chiếm hữu gián đoạn, chiếm hữu không công khai, hoặc những trường hợp khác không thể xác lập quyền sở hữu theo thời hiệu theo Điều 247 BLDS. Chiếm hữu không liên tục - Theo Điều 190 BLDS, “việc chiếm hữu tài sản được thực hiện trong một khoảng thời gian mà không có tranh chấp về tài sản đó là chiếm hữu liên tục, kể cả khi tài sản được giao cho người khác chiếm hữu”.",
+            "metadata": {
+              "volume": 1,
+              "category": "tai_san_quyen_so_huu",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 0,
+              "document_type": "giao_trinh",
+              "category_label": "Tài sản và quyền sở hữu",
+              "paragraph_count": 1
+            },
+            "score": 0.5830218735028961,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search_limit"
+      }
+    ]
+  },
+  {
+    "query_id": "q20",
+    "split": "test",
+    "question": "Quyền sở hữu bề mặt có phải đăng ký khi tài sản gắn liền với đất thuộc loại phải đăng ký quyền sở hữu không?",
+    "answerable": true,
+    "filter": {
+      "category": "tai_san_quyen_so_huu"
+    },
+    "status": "answered",
+    "answer": "Quyền sở hữu bề mặt phải được đăng ký khi tài sản gắn liền với đất thuộc loại phải đăng ký quyền sở hữu. Điều này có nghĩa là để được coi là người sở hữu hợp pháp, người chiếm hữu tài sản cần hoàn thành thủ tục đăng ký quyền sở hữu tại cơ quan có thẩm quyền, và quyền sở hữu sẽ được xác lập từ thời điểm đăng ký chứ không phải từ thời điểm tiếp nhận tài sản. [paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0123:c0002].",
+    "citations": [
+      "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0123:c0002"
+    ],
+    "search_count": 2,
+    "llm_calls": 2,
+    "prompt_tokens": 1747,
+    "completion_tokens": 191,
+    "elapsed_ms": 4444.13,
+    "events": [
+      {
+        "event": "search",
+        "query": "Quyền sở hữu bề mặt có phải đăng ký khi tài sản gắn liền với đất thuộc loại phải đăng ký quyền sở hữu không?",
+        "filter": {
+          "category": "tai_san_quyen_so_huu"
+        },
+        "results": [
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0152:c0000",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 152,
+            "text": "2.3. Quyền sử dụng hạn chế đối với đất Khi sở hữu các tài sản gắn liền với đất, người có quyền sở hữu bề mặt, muốn thực hiện quyền sở hữu của mình, nhất thiết phải xác lập được quyền sử dụng đối với đất có các tài sản đó. Khi đó, quan hệ giữa người có quyền sở hữu bề mặt và người sử dụng đất giống như quan hệ giữa hai chủ sở hữu bất động sản liền kề. Trong chừng mực nào đó, có thể tin rằng bất động sản đối tượng của quyền sở hữu bề mặt luôn là bất động sản bị vây bọc mà nếu như không có quyền sử dụng đất, người có quyền sở hữu bề mặt sẽ không bao giờ có thể tiếp xúc với đường công cộng, thiết bị công cộng mà không sử dụng đến đất đai thuộc quyền sử dụng của người khác. 2.4. Đăng ký quyền sở hữu Nếu các tài sản gắn liền với đất thuộc loại phải đăng ký quyền sở hữu, thì quyền sở hữu bề mặt xác lập đối với các tài sản đó cũng phải được đăng ký. Trong trường hợp tài sản gắn liền với đất không thuộc loại phải đăng ký quyền sở hữu thì quyền sở hữu bề mặt cũng không được đăng ký.",
+            "metadata": {
+              "volume": 1,
+              "category": "tai_san_quyen_so_huu",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 0,
+              "document_type": "giao_trinh",
+              "category_label": "Tài sản và quyền sở hữu",
+              "paragraph_count": 1
+            },
+            "score": 0.7923738402127397,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0123:c0002",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 123,
+            "text": "Trong hầu hết các trường hợp chuyển nhượng đối với tài sản phải đăng ký quyền sở hữu (mua bán, tặng cho, trao đổi,...), thì quyền sở hữu được chuyển cho người được chuyển nhượng ở thời điểm đăng ký. Như vậy, đối với các tài sản phải đăng ký quyền sở hữu, thì để được coi là người chiếm hữu không có căn cứ pháp luật nhưng ngay tình, người chiếm hữu tài sản trước hết phải hoàn thành thủ tục đăng ký quyền sở hữu tại cơ quan có thẩm quyền; tình trạng chiếm hữu được dùng làm cơ sở để xác lập quyền sở hữu theo thời hiệu được coi như bắt đầu từ ngày đăng ký chứ không phải từ ngày tiếp nhận tài sản.",
+            "metadata": {
+              "volume": 1,
+              "category": "tai_san_quyen_so_huu",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 2,
+              "document_type": "giao_trinh",
+              "category_label": "Tài sản và quyền sở hữu",
+              "paragraph_count": 1
+            },
+            "score": 0.5735405901291497,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0148:c0001",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 148,
+            "text": "MỤC 6 - Quyền sở hữu bề mặt Khái niệm - Quyền sở hữu bề mặt, trong khung cảnh của luật thực định Việt Nam, là quyền sở hữu của một người không có quyền sử dụng đất đối với các tài sản gắn liền với đất đó. Quyền sử dụng đất trong định nghĩa này được hiểu như một tài sản (nghĩa là có thể chuyển nhượng được); nó có thể thuộc về một người khác (ví dụ: người cho thuê quyền sử dụng đất ở, đất chuyên dùng) hoặc không tồn tại (như trong trường hợp người có quyền sở hữu đối với các tài sản gắn liền với đất chỉ là người được Nhà nước cho thuê đất trả tiền thuê hàng năm). Sự phát triển của chế định quyền sở hữu bề mặt trong luật hiện đại Việt Nam gắn liền với quá trình hoàn thiện hệ thống pháp luật đất đai. 1. Xác lập quyền sở hữu bề mặt",
+            "metadata": {
+              "volume": 1,
+              "category": "tai_san_quyen_so_huu",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 1,
+              "document_type": "giao_trinh",
+              "category_label": "Tài sản và quyền sở hữu",
+              "paragraph_count": 1
+            },
+            "score": 0.5491492637201897,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0123:c0002 | starter/data/LuatVietNam.pdf | page 123]\nTrong hầu hết các trường hợp chuyển nhượng đối với tài sản phải đăng ký quyền sở hữu (mua bán, tặng cho, trao đổi,...), thì quyền sở hữu được chuyển cho người được chuyển nhượng ở thời điểm đăng ký. Như vậy, đối với các tài sản phải đăng ký quyền sở hữu, thì để được coi là người chiếm hữu không có căn cứ pháp luật nhưng ngay tình, người chiếm hữu tài sản trước hết phải hoàn thành thủ tục đăng ký quyền sở hữu tại cơ quan có thẩm quyền; tình trạng chiếm hữu được dùng làm cơ sở để xác lập quyền sở hữu theo thời hiệu được coi như bắt đầu từ ngày đăng ký chứ không phải từ ngày tiếp nhận tài sản.",
+        "context_ids": [
+          "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0123:c0002"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "quyền sở hữu bề mặt đăng ký tài sản gắn liền với đất",
+        "filter": {
+          "category": "tai_san_quyen_so_huu"
+        },
+        "results": [
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0152:c0000",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 152,
+            "text": "2.3. Quyền sử dụng hạn chế đối với đất Khi sở hữu các tài sản gắn liền với đất, người có quyền sở hữu bề mặt, muốn thực hiện quyền sở hữu của mình, nhất thiết phải xác lập được quyền sử dụng đối với đất có các tài sản đó. Khi đó, quan hệ giữa người có quyền sở hữu bề mặt và người sử dụng đất giống như quan hệ giữa hai chủ sở hữu bất động sản liền kề. Trong chừng mực nào đó, có thể tin rằng bất động sản đối tượng của quyền sở hữu bề mặt luôn là bất động sản bị vây bọc mà nếu như không có quyền sử dụng đất, người có quyền sở hữu bề mặt sẽ không bao giờ có thể tiếp xúc với đường công cộng, thiết bị công cộng mà không sử dụng đến đất đai thuộc quyền sử dụng của người khác. 2.4. Đăng ký quyền sở hữu Nếu các tài sản gắn liền với đất thuộc loại phải đăng ký quyền sở hữu, thì quyền sở hữu bề mặt xác lập đối với các tài sản đó cũng phải được đăng ký. Trong trường hợp tài sản gắn liền với đất không thuộc loại phải đăng ký quyền sở hữu thì quyền sở hữu bề mặt cũng không được đăng ký.",
+            "metadata": {
+              "volume": 1,
+              "category": "tai_san_quyen_so_huu",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 0,
+              "document_type": "giao_trinh",
+              "category_label": "Tài sản và quyền sở hữu",
+              "paragraph_count": 1
+            },
+            "score": 0.79133061080656,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0148:c0001",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 148,
+            "text": "MỤC 6 - Quyền sở hữu bề mặt Khái niệm - Quyền sở hữu bề mặt, trong khung cảnh của luật thực định Việt Nam, là quyền sở hữu của một người không có quyền sử dụng đất đối với các tài sản gắn liền với đất đó. Quyền sử dụng đất trong định nghĩa này được hiểu như một tài sản (nghĩa là có thể chuyển nhượng được); nó có thể thuộc về một người khác (ví dụ: người cho thuê quyền sử dụng đất ở, đất chuyên dùng) hoặc không tồn tại (như trong trường hợp người có quyền sở hữu đối với các tài sản gắn liền với đất chỉ là người được Nhà nước cho thuê đất trả tiền thuê hàng năm). Sự phát triển của chế định quyền sở hữu bề mặt trong luật hiện đại Việt Nam gắn liền với quá trình hoàn thiện hệ thống pháp luật đất đai. 1. Xác lập quyền sở hữu bề mặt",
+            "metadata": {
+              "volume": 1,
+              "category": "tai_san_quyen_so_huu",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 1,
+              "document_type": "giao_trinh",
+              "category_label": "Tài sản và quyền sở hữu",
+              "paragraph_count": 1
+            },
+            "score": 0.6773577375703551,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0149:c0000",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 149,
+            "text": "Quyền sở hữu bề mặt có thể được xác lập theo pháp luật đất đai hoặc theo pháp luật dân sự. 1.1. Xác lập quyền sở hữu bề mặt theo pháp luật đất đai trong các trường hợp cụ thể như: 1.1.1. Trường hợp thuê đất trả tiền thuê hàng năm- Về nguyên tắc người thuê chỉ có quyền sở hữu bề mặt. -Hộ gia đình, cá nhân được Nhà nước cho thuê đất thu tiền thuê đất hàng năm có quyền sở hữu và định đoạt đối với các tài sản gắn liền với đất thuê ( Điều 114 khoản 1 Luật đất đai 2003) nhưng lại không có quyền sử dụng đất có giá trị tài sản. Người được chuyển giao quyền sở hữu tài sản được Nhà nước tiếp tục cho thuê đất theo mục đích đã được xác định. Có thể nói, quyền sử dụng đất của hộ gia đình, cá nhân được Nhà nước cho thuê đất trả tiền hàng năm có tính chất tương tự như một quyền không có tính chất tài sản và gắn liền với nhân thân người có quyền. Nói cách khác, họ chỉ có quyền sở hữu bề mặt đối với các tài sản gắn liền với đất thuê. - Tương tự, tổ chức kinh tế được Nhà nước cho thuê đất thu tiền thuê đất hàng năm về nguyên tắc chỉ có quyền sở hữu bề mặt đối với các tài sản gắn liền với đất thuê ( Điều 111 khoản 1Luật đất đai 2003).",
+            "metadata": {
+              "volume": 1,
+              "category": "tai_san_quyen_so_huu",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 0,
+              "document_type": "giao_trinh",
+              "category_label": "Tài sản và quyền sở hữu",
+              "paragraph_count": 1
+            },
+            "score": 0.546125049024848,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0123:c0002 | starter/data/LuatVietNam.pdf | page 123]\nTrong hầu hết các trường hợp chuyển nhượng đối với tài sản phải đăng ký quyền sở hữu (mua bán, tặng cho, trao đổi,...), thì quyền sở hữu được chuyển cho người được chuyển nhượng ở thời điểm đăng ký. Như vậy, đối với các tài sản phải đăng ký quyền sở hữu, thì để được coi là người chiếm hữu không có căn cứ pháp luật nhưng ngay tình, người chiếm hữu tài sản trước hết phải hoàn thành thủ tục đăng ký quyền sở hữu tại cơ quan có thẩm quyền; tình trạng chiếm hữu được dùng làm cơ sở để xác lập quyền sở hữu theo thời hiệu được coi như bắt đầu từ ngày đăng ký chứ không phải từ ngày tiếp nhận tài sản.",
+        "context_ids": [
+          "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0123:c0002"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ]
+  },
+  {
+    "query_id": "u03",
+    "split": "test",
+    "question": "Theo giáo trình, trường hợp tài sản ký quỹ tại ngân hàng bị phong tỏa thì chi phí quản lý tài sản ký quỹ do bên nào chịu?",
+    "answerable": false,
+    "filter": null,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "search_count": 3,
+    "llm_calls": 3,
+    "prompt_tokens": 2049,
+    "completion_tokens": 76,
+    "elapsed_ms": 3472.89,
+    "events": [
+      {
+        "event": "search",
+        "query": "Theo giáo trình, trường hợp tài sản ký quỹ tại ngân hàng bị phong tỏa thì chi phí quản lý tài sản ký quỹ do bên nào chịu?",
+        "filter": null,
+        "results": [
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0079:c0002",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 79,
+            "text": "Trong luật Việt Nam hiện hành doanh nghiệp Nhà nước trong các lĩnh vực mà Nhà nước không nắm độc quyền cũng mang các đặc điểm cơ bản của pháp nhân tư pháp. Tuy nhiên, các cán bộ điều hành chủ chốt của các doanh nghiệp này lại được hưởng quy chế đặc biệt như công chức biệt phái sang khu vực kinh tế. Quỹ xã hội, quỹ từ thiện. Khác với pháp nhân được thành lập từ sự kết nhóm của các chủ thể của quan hệ pháp luật hoặc do ý chí của Nhà nước, quỹ xã hội, quỹ từ thiện là một pháp nhân hình thành từ việc trích các tài sản, vốn thuộc một hình thức sở hữu nào đó, để tạo thành một khối tài sản phục vụ cho các hoạt động xã hội hoặc từ thiện. Quỹ xã hội, quỹ từ thiện không phải là một nhóm người mà là một tập hợp tài sản và chính từ sự cần thiết của việc đặt các tài sản thuộc tập hợp đó dưới một chế độ quản lý chặt chẽ để việc khai thác quỹ đó thực sự có hiệu quả mà luật thừa nhận tư cách pháp nhân của tổ chức con người quản lý quỹ đó. Pháp nhân có thu lợi nhuận và pháp nhân không thu lợi nhuận. Thu lợi nhuận có thể được hiểu như là hoạt động đầu tư tài sản để tìm kiếm chênh lệch giá trị giữa đầu vào và đầu ra.",
+            "metadata": {
+              "volume": 1,
+              "category": "phap_nhan",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 2,
+              "document_type": "giao_trinh",
+              "category_label": "Chủ thể pháp nhân",
+              "paragraph_count": 1
+            },
+            "score": 0.3321795575356844,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0080:c0002",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 80,
+            "text": "Trong các cơ quan quản lý còn có cơ quan quản lý thuần tuý (còn gọi là cơ quan hành chính) và cơ quan sự nghiệp (tức là cơ quan hoạt động có thu). Thành lập pháp nhân theo ý chí của chủ thể của quyền và nghĩa vụ được luật thừa nhận. Các pháp nhân loại này có thể mang tính chất của pháp nhân tư pháp hoặc pháp nhân hỗn hợp hoặc quỹ xã hội, quỹ từ thiện. Các pháp nhân này có thể sinh ra trên cơ sở hợp đồng giữa các chủ thể của quan hệ pháp luật (như trường hợp công ty nhiều thành viên) hoặc do hành vi pháp lý đơn phương (như trường hợp công ty trách nhiệm hữu hạn một thành viên, quỹ xã hội do một người lập). Việc thành lập pháp nhân loại này phải được sự cho phép hoặc công nhận của cơ quan Nhà nước có thẩm quyền và, trong hầu hết các trường hợp, pháp nhân phải đăng ký hoạt động mới được hưởng tư cách đó trước người thứ ba. Riêng về quỹ xã hội, quỹ từ thiện do một cá nhân thành lập. Sẽ không có vấn đề gì đặc biệt nếu quỹ được thành lập lúc cá nhân còn sống và đã hoàn tất các thủ tục cần thiết để được hưởng tư cách pháp nhân. Nhưng, nếu cá nhân thành lập quỹ bằng di chúc, thì sao?",
+            "metadata": {
+              "volume": 1,
+              "category": "phap_nhan",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 2,
+              "document_type": "giao_trinh",
+              "category_label": "Chủ thể pháp nhân",
+              "paragraph_count": 1
+            },
+            "score": 0.3145224321454288,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0123:c0001",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 123,
+            "text": "Trường hợp người chuyển nhượng không có quyền sở hữu tài sản do giao dịch chuyển nhượng vô hiệu: +Tài sản có đăng ký quyền sở hữu - Theo khoản 2 Điều 138 BLDS “Trong trường hợp tài sản giao dịch là bất động sản hoặc là động sản phải đăng ký quyền sở hữu đã được chuyển giao bằng một giao dịch khác cho người thứ ba ngay tình thì giao dịch với người thứ ba bị vô hiệu, trừ trường hợp người thứ ba ngay tình nhận được tài sản này thông qua bán đấu giá hoặc giao dịch với người mà theo bản án, quyết định của cơ quan nhà nước có thẩm quyền là chủ sở hữu tài sản nhưng sau đó người này không phải là chủ sở hữu tài sản do bản án, quyết định bị huỷ, sửa.” Trong luật Việt Nam hiện hành, đối với tài sản thuộc loại phải đăng ký quyền sở hữu, thì việc chuyển nhượng chỉ có thể được thực hiện trên cơ sở xuất trình các bằng chứng về việc đăng ký quyền sở hữu đó. Vậy, một người chấp nhận giao kết việc chuyển nhượng đối với một tài sản phải đăng ký quyền sở hữu, trong điều kiện người chuyển nhượng không xuất trình được bằng chứng về việc đăng ký đó, thì không thể được coi là ngay tình khi chiếm hữu tài sản và không thể xác lập quyền sở hữu theo thời hiệu bằng cách viện dẫn khoản 1 Điều 247 BLDS.",
+            "metadata": {
+              "volume": 1,
+              "category": "tai_san_quyen_so_huu",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 1,
+              "document_type": "giao_trinh",
+              "category_label": "Tài sản và quyền sở hữu",
+              "paragraph_count": 1
+            },
+            "score": 0.20281824076446922,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search",
+        "query": "chi phí quản lý tài sản ký quỹ bị phong tỏa",
+        "filter": null,
+        "results": [
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0079:c0002",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 79,
+            "text": "Trong luật Việt Nam hiện hành doanh nghiệp Nhà nước trong các lĩnh vực mà Nhà nước không nắm độc quyền cũng mang các đặc điểm cơ bản của pháp nhân tư pháp. Tuy nhiên, các cán bộ điều hành chủ chốt của các doanh nghiệp này lại được hưởng quy chế đặc biệt như công chức biệt phái sang khu vực kinh tế. Quỹ xã hội, quỹ từ thiện. Khác với pháp nhân được thành lập từ sự kết nhóm của các chủ thể của quan hệ pháp luật hoặc do ý chí của Nhà nước, quỹ xã hội, quỹ từ thiện là một pháp nhân hình thành từ việc trích các tài sản, vốn thuộc một hình thức sở hữu nào đó, để tạo thành một khối tài sản phục vụ cho các hoạt động xã hội hoặc từ thiện. Quỹ xã hội, quỹ từ thiện không phải là một nhóm người mà là một tập hợp tài sản và chính từ sự cần thiết của việc đặt các tài sản thuộc tập hợp đó dưới một chế độ quản lý chặt chẽ để việc khai thác quỹ đó thực sự có hiệu quả mà luật thừa nhận tư cách pháp nhân của tổ chức con người quản lý quỹ đó. Pháp nhân có thu lợi nhuận và pháp nhân không thu lợi nhuận. Thu lợi nhuận có thể được hiểu như là hoạt động đầu tư tài sản để tìm kiếm chênh lệch giá trị giữa đầu vào và đầu ra.",
+            "metadata": {
+              "volume": 1,
+              "category": "phap_nhan",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 2,
+              "document_type": "giao_trinh",
+              "category_label": "Chủ thể pháp nhân",
+              "paragraph_count": 1
+            },
+            "score": 0.2651091777575046,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0080:c0002",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 80,
+            "text": "Trong các cơ quan quản lý còn có cơ quan quản lý thuần tuý (còn gọi là cơ quan hành chính) và cơ quan sự nghiệp (tức là cơ quan hoạt động có thu). Thành lập pháp nhân theo ý chí của chủ thể của quyền và nghĩa vụ được luật thừa nhận. Các pháp nhân loại này có thể mang tính chất của pháp nhân tư pháp hoặc pháp nhân hỗn hợp hoặc quỹ xã hội, quỹ từ thiện. Các pháp nhân này có thể sinh ra trên cơ sở hợp đồng giữa các chủ thể của quan hệ pháp luật (như trường hợp công ty nhiều thành viên) hoặc do hành vi pháp lý đơn phương (như trường hợp công ty trách nhiệm hữu hạn một thành viên, quỹ xã hội do một người lập). Việc thành lập pháp nhân loại này phải được sự cho phép hoặc công nhận của cơ quan Nhà nước có thẩm quyền và, trong hầu hết các trường hợp, pháp nhân phải đăng ký hoạt động mới được hưởng tư cách đó trước người thứ ba. Riêng về quỹ xã hội, quỹ từ thiện do một cá nhân thành lập. Sẽ không có vấn đề gì đặc biệt nếu quỹ được thành lập lúc cá nhân còn sống và đã hoàn tất các thủ tục cần thiết để được hưởng tư cách pháp nhân. Nhưng, nếu cá nhân thành lập quỹ bằng di chúc, thì sao?",
+            "metadata": {
+              "volume": 1,
+              "category": "phap_nhan",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 2,
+              "document_type": "giao_trinh",
+              "category_label": "Chủ thể pháp nhân",
+              "paragraph_count": 1
+            },
+            "score": 0.2417395393091325,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0044:c0001",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 44,
+            "text": "Theo BLDS Điều 76, người quản lý tài sản của người vắng mặt tại nơi cư trú có các nghĩa vụ sau đây: 1. Giữ gìn, bảo quản tài sản của người vắng mặt như tài sản của chính mình; 2. Bán ngay tài sản là hoa màu, sản phẩm khác có nguy cơ hư hỏng; 3. Thực hiện nghĩa vụ cấp dưỡng, thanh toán nợ đến hạn của người vắng mặt bằng tài sản của người đó theo quyết định của Toà án; 4. Giao lại tài sản cho người vắng mặt khi người này trở về và phải thông báo cho Toà án biết; nếu có lỗi trong việc quản lý tài sản mà gây thiết hại, thì phải bối thường. Theo BLDS Điều 77, người quản lý tài sản của người vắng mặt tại nơi cư trú có các quyền sau đây: 1. Quản lý tài sản của người vắng mặt; 2. Trích một phần tài sản của người vắng mặt để thực hiện nghĩa vụ cấp dưỡng, nghĩa vụ thanh toán nợ đến hạn của người vắng mặt; 3. Được thanh toán các chi phí cần thiết trong việc quản lý tài sản Nhận xét về quyền và nghĩa vụ của người quản lý tài sản. Các quy định về quyền và nghĩa vụ của người quản lý tài sản được ghi nhận tại các Điều 76 và 77 BLDS chỉ được áp dụng trong trường hợp không có chế độ quản lý nào khác đang được áp dụng đối với tài sản của người vắng mặt.",
+            "metadata": {
+              "volume": 1,
+              "category": "ca_nhan",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 1,
+              "document_type": "giao_trinh",
+              "category_label": "Chủ thể cá nhân",
+              "paragraph_count": 1
+            },
+            "score": 0.1984323906510399,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search",
+        "query": "chi phí quản lý tài sản ký quỹ bị phong tỏa ngân hàng",
+        "filter": null,
+        "results": [
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0079:c0002",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 79,
+            "text": "Trong luật Việt Nam hiện hành doanh nghiệp Nhà nước trong các lĩnh vực mà Nhà nước không nắm độc quyền cũng mang các đặc điểm cơ bản của pháp nhân tư pháp. Tuy nhiên, các cán bộ điều hành chủ chốt của các doanh nghiệp này lại được hưởng quy chế đặc biệt như công chức biệt phái sang khu vực kinh tế. Quỹ xã hội, quỹ từ thiện. Khác với pháp nhân được thành lập từ sự kết nhóm của các chủ thể của quan hệ pháp luật hoặc do ý chí của Nhà nước, quỹ xã hội, quỹ từ thiện là một pháp nhân hình thành từ việc trích các tài sản, vốn thuộc một hình thức sở hữu nào đó, để tạo thành một khối tài sản phục vụ cho các hoạt động xã hội hoặc từ thiện. Quỹ xã hội, quỹ từ thiện không phải là một nhóm người mà là một tập hợp tài sản và chính từ sự cần thiết của việc đặt các tài sản thuộc tập hợp đó dưới một chế độ quản lý chặt chẽ để việc khai thác quỹ đó thực sự có hiệu quả mà luật thừa nhận tư cách pháp nhân của tổ chức con người quản lý quỹ đó. Pháp nhân có thu lợi nhuận và pháp nhân không thu lợi nhuận. Thu lợi nhuận có thể được hiểu như là hoạt động đầu tư tài sản để tìm kiếm chênh lệch giá trị giữa đầu vào và đầu ra.",
+            "metadata": {
+              "volume": 1,
+              "category": "phap_nhan",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 2,
+              "document_type": "giao_trinh",
+              "category_label": "Chủ thể pháp nhân",
+              "paragraph_count": 1
+            },
+            "score": 0.23813135293802173,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0080:c0002",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 80,
+            "text": "Trong các cơ quan quản lý còn có cơ quan quản lý thuần tuý (còn gọi là cơ quan hành chính) và cơ quan sự nghiệp (tức là cơ quan hoạt động có thu). Thành lập pháp nhân theo ý chí của chủ thể của quyền và nghĩa vụ được luật thừa nhận. Các pháp nhân loại này có thể mang tính chất của pháp nhân tư pháp hoặc pháp nhân hỗn hợp hoặc quỹ xã hội, quỹ từ thiện. Các pháp nhân này có thể sinh ra trên cơ sở hợp đồng giữa các chủ thể của quan hệ pháp luật (như trường hợp công ty nhiều thành viên) hoặc do hành vi pháp lý đơn phương (như trường hợp công ty trách nhiệm hữu hạn một thành viên, quỹ xã hội do một người lập). Việc thành lập pháp nhân loại này phải được sự cho phép hoặc công nhận của cơ quan Nhà nước có thẩm quyền và, trong hầu hết các trường hợp, pháp nhân phải đăng ký hoạt động mới được hưởng tư cách đó trước người thứ ba. Riêng về quỹ xã hội, quỹ từ thiện do một cá nhân thành lập. Sẽ không có vấn đề gì đặc biệt nếu quỹ được thành lập lúc cá nhân còn sống và đã hoàn tất các thủ tục cần thiết để được hưởng tư cách pháp nhân. Nhưng, nếu cá nhân thành lập quỹ bằng di chúc, thì sao?",
+            "metadata": {
+              "volume": 1,
+              "category": "phap_nhan",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 2,
+              "document_type": "giao_trinh",
+              "category_label": "Chủ thể pháp nhân",
+              "paragraph_count": 1
+            },
+            "score": 0.21713983665610107,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0044:c0001",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 44,
+            "text": "Theo BLDS Điều 76, người quản lý tài sản của người vắng mặt tại nơi cư trú có các nghĩa vụ sau đây: 1. Giữ gìn, bảo quản tài sản của người vắng mặt như tài sản của chính mình; 2. Bán ngay tài sản là hoa màu, sản phẩm khác có nguy cơ hư hỏng; 3. Thực hiện nghĩa vụ cấp dưỡng, thanh toán nợ đến hạn của người vắng mặt bằng tài sản của người đó theo quyết định của Toà án; 4. Giao lại tài sản cho người vắng mặt khi người này trở về và phải thông báo cho Toà án biết; nếu có lỗi trong việc quản lý tài sản mà gây thiết hại, thì phải bối thường. Theo BLDS Điều 77, người quản lý tài sản của người vắng mặt tại nơi cư trú có các quyền sau đây: 1. Quản lý tài sản của người vắng mặt; 2. Trích một phần tài sản của người vắng mặt để thực hiện nghĩa vụ cấp dưỡng, nghĩa vụ thanh toán nợ đến hạn của người vắng mặt; 3. Được thanh toán các chi phí cần thiết trong việc quản lý tài sản Nhận xét về quyền và nghĩa vụ của người quản lý tài sản. Các quy định về quyền và nghĩa vụ của người quản lý tài sản được ghi nhận tại các Điều 76 và 77 BLDS chỉ được áp dụng trong trường hợp không có chế độ quản lý nào khác đang được áp dụng đối với tài sản của người vắng mặt.",
+            "metadata": {
+              "volume": 1,
+              "category": "ca_nhan",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 1,
+              "document_type": "giao_trinh",
+              "category_label": "Chủ thể cá nhân",
+              "paragraph_count": 1
+            },
+            "score": 0.17823967488473935,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "",
+        "context_ids": []
+      },
+      {
+        "event": "search_limit"
+      }
+    ]
+  },
+  {
+    "query_id": "u04",
+    "split": "test",
+    "question": "Giáo trình quy định mức phạt vi phạm hợp đồng tối đa trong dân sự là bao nhiêu phần trăm giá trị phần nghĩa vụ bị vi phạm?",
+    "answerable": false,
+    "filter": null,
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "search_count": 3,
+    "llm_calls": 3,
+    "prompt_tokens": 2728,
+    "completion_tokens": 81,
+    "elapsed_ms": 3402.15,
+    "events": [
+      {
+        "event": "search",
+        "query": "Giáo trình quy định mức phạt vi phạm hợp đồng tối đa trong dân sự là bao nhiêu phần trăm giá trị phần nghĩa vụ bị vi phạm?",
+        "filter": null,
+        "results": [
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0072:c0001",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 72,
+            "text": "Còn trong trường hợp chủ động giúp bệnh nhân được chết, người điều trị có thể phạm tội giúp người khác tự sát (BLHS Điều 101). 3.2. Quyền đối với sự toàn vẹn phẩm giá Thiệt hại tinh thần. Theo BLDS Điều 37. danh dự, nhân phẩm, uy tín của cá nhân được pháp luật tôn trọng và bảo vệ. một người có thể bị xúc phạm dưới hình thức vu khống hoặc lăng nhục. Dù ở hình thức nào, việc xúc phạm danh dự, nhân phẩm, uy tín phải mang tính chất cố ý mới có thể bị chế tài: một câu nói sơ ý gây tổn thương chưa đủ để quy trách nhiệm về việc xúc phạm phẩm giá. Trách nhiệm có thể được quy kết về mặt hình sự và cả về mặt dân sự. Theo BLDS năm 2005, Điều, người bị xúc phạm danh dự, nhân phẩm, uy tín có quyền tự mình cải chính hoặc yêu cầu người vi phạm hoặc yêu cầu cơ quan, tổ chức có thẩm quyền buộc người vi phạm phải chấm dứt hành vi vi phạm, xin lỗi, cải chính công khai và yêu cầu cơ quan, tổ chức có thẩm quyền buộc người vi phạm bồi thường thiệt hại. 3.3. Quyền đối với bí mật của cuộc sống riêng tư Khái niệm cuộc sống riêng tư.",
+            "metadata": {
+              "volume": 1,
+              "category": "ca_nhan",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 1,
+              "document_type": "giao_trinh",
+              "category_label": "Chủ thể cá nhân",
+              "paragraph_count": 1
+            },
+            "score": 0.24703519206241178,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0067:c0002",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 67,
+            "text": "Dẫu sao, có thể tin rằng khác với người chưa thành niên, người bị hạn chế năng lực hành vi dân sự có thể lập di chúc mà không cần có sự đồng ý của người đại diện: chỉ cần người bị hạn chế năng lực hành vi sáng suốt, minh mẫn, tự nguyện trong lúc lập di chúc, thì di chúc, một khi thoả mãn các điều kiện theo luật chung, sẽ có giá trị. Người bị hạn chế năng lực hành vi cũng có thể kết hôn mà không cần sự đồng ý của người đại diện. Phạm vi đại diện cho người bị hạn chế năng lực hành vi dân sự do Toà án quyết định (cùng điều luật). Kết hợp các quy định liên quan, ta kết luận rằng các giao dịch mà người bị hạn chế năng lực hành vi được phép xác lập, tự mình hoặc có sự đồng ý của người đại diện, bao gồm: các giao dịch nhỏ, các giao dịch mà đương sự không thể giao cho người khác thực hiện, dù không bị hạn chế năng lực hành vi dân sự, và các giao dịch mà người đại diện được phép thực hiện dưới danh nghĩa của đương sự trong phạm vi đại diện do Toà án xác định. Không như người giám hộ, người đại diện cho người bị hạn chế năng lực hành vi dân sự không chịu sự giám sát của UBND địa phương nơi cư trú trong quá trình thực hiện việc đại diện.",
+            "metadata": {
+              "volume": 1,
+              "category": "ca_nhan",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 2,
+              "document_type": "giao_trinh",
+              "category_label": "Chủ thể cá nhân",
+              "paragraph_count": 1
+            },
+            "score": 0.22885846417280192,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0117:c0002",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 117,
+            "text": "Trở ngại khách quan là những trở ngại do hoàn cảnh khách quan tác động làm cho người có quyền, nghĩa vụ dân sự không thể biết về việc quyền, lợi ích hợp pháp của mình bị xâm phạm hoặc không thể thực hiện được quyền hoặc nghĩa vụ dân sự của mình; 2. Chưa có người đại diện trong trường hợp người có quyền khởi kiện, người có quyền yêu cầu chưa thành niên, mất năng lực hành vi dân sự hoặc bị hạn chế năng lực hành vi dân sự; 3. Chưa có người đại diện khác thay thế hoặc vì lý do chính đáng khác mà không thể tiếp tục đại diện được trong trường hợp người đại diện của người chưa thành niên, người mất năng lực hành vi dân sự, người bị hạn chế năng lực hành vi dân sự chết.",
+            "metadata": {
+              "volume": 1,
+              "category": "tai_san_quyen_so_huu",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 2,
+              "document_type": "giao_trinh",
+              "category_label": "Tài sản và quyền sở hữu",
+              "paragraph_count": 1
+            },
+            "score": 0.19425620969554194,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0117:c0002 | starter/data/LuatVietNam.pdf | page 117]\nTrở ngại khách quan là những trở ngại do hoàn cảnh khách quan tác động làm cho người có quyền, nghĩa vụ dân sự không thể biết về việc quyền, lợi ích hợp pháp của mình bị xâm phạm hoặc không thể thực hiện được quyền hoặc nghĩa vụ dân sự của mình; 2. Chưa có người đại diện trong trường hợp người có quyền khởi kiện, người có quyền yêu cầu chưa thành niên, mất năng lực hành vi dân sự hoặc bị hạn chế năng lực hành vi dân sự; 3. Chưa có người đại diện khác thay thế hoặc vì lý do chính đáng khác mà không thể tiếp tục đại diện được trong trường hợp người đại diện của người chưa thành niên, người mất năng lực hành vi dân sự, người bị hạn chế năng lực hành vi dân sự chết.",
+        "context_ids": [
+          "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0117:c0002"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "mức phạt vi phạm hợp đồng tối đa phần trăm giá trị nghĩa vụ bị vi phạm",
+        "filter": null,
+        "results": [
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0072:c0001",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 72,
+            "text": "Còn trong trường hợp chủ động giúp bệnh nhân được chết, người điều trị có thể phạm tội giúp người khác tự sát (BLHS Điều 101). 3.2. Quyền đối với sự toàn vẹn phẩm giá Thiệt hại tinh thần. Theo BLDS Điều 37. danh dự, nhân phẩm, uy tín của cá nhân được pháp luật tôn trọng và bảo vệ. một người có thể bị xúc phạm dưới hình thức vu khống hoặc lăng nhục. Dù ở hình thức nào, việc xúc phạm danh dự, nhân phẩm, uy tín phải mang tính chất cố ý mới có thể bị chế tài: một câu nói sơ ý gây tổn thương chưa đủ để quy trách nhiệm về việc xúc phạm phẩm giá. Trách nhiệm có thể được quy kết về mặt hình sự và cả về mặt dân sự. Theo BLDS năm 2005, Điều, người bị xúc phạm danh dự, nhân phẩm, uy tín có quyền tự mình cải chính hoặc yêu cầu người vi phạm hoặc yêu cầu cơ quan, tổ chức có thẩm quyền buộc người vi phạm phải chấm dứt hành vi vi phạm, xin lỗi, cải chính công khai và yêu cầu cơ quan, tổ chức có thẩm quyền buộc người vi phạm bồi thường thiệt hại. 3.3. Quyền đối với bí mật của cuộc sống riêng tư Khái niệm cuộc sống riêng tư.",
+            "metadata": {
+              "volume": 1,
+              "category": "ca_nhan",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 1,
+              "document_type": "giao_trinh",
+              "category_label": "Chủ thể cá nhân",
+              "paragraph_count": 1
+            },
+            "score": 0.2927391006865949,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0067:c0002",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 67,
+            "text": "Dẫu sao, có thể tin rằng khác với người chưa thành niên, người bị hạn chế năng lực hành vi dân sự có thể lập di chúc mà không cần có sự đồng ý của người đại diện: chỉ cần người bị hạn chế năng lực hành vi sáng suốt, minh mẫn, tự nguyện trong lúc lập di chúc, thì di chúc, một khi thoả mãn các điều kiện theo luật chung, sẽ có giá trị. Người bị hạn chế năng lực hành vi cũng có thể kết hôn mà không cần sự đồng ý của người đại diện. Phạm vi đại diện cho người bị hạn chế năng lực hành vi dân sự do Toà án quyết định (cùng điều luật). Kết hợp các quy định liên quan, ta kết luận rằng các giao dịch mà người bị hạn chế năng lực hành vi được phép xác lập, tự mình hoặc có sự đồng ý của người đại diện, bao gồm: các giao dịch nhỏ, các giao dịch mà đương sự không thể giao cho người khác thực hiện, dù không bị hạn chế năng lực hành vi dân sự, và các giao dịch mà người đại diện được phép thực hiện dưới danh nghĩa của đương sự trong phạm vi đại diện do Toà án xác định. Không như người giám hộ, người đại diện cho người bị hạn chế năng lực hành vi dân sự không chịu sự giám sát của UBND địa phương nơi cư trú trong quá trình thực hiện việc đại diện.",
+            "metadata": {
+              "volume": 1,
+              "category": "ca_nhan",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 2,
+              "document_type": "giao_trinh",
+              "category_label": "Chủ thể cá nhân",
+              "paragraph_count": 1
+            },
+            "score": 0.21845172107348776,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0070:c0002",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 70,
+            "text": "Trong luật Việt nam hiện hành, người mại dâm không bị chế tài hình sự do hành vi mại dâm, dù là mại dâm chuyên nghiệp79, nhưng người này có thể bị xử lý hành chính về hành vi đó. Cần lưu ý rằng nếu việc lạm dụng khả năng sinh hoạt tình dục không kèm theo việc thu lợi ích vật chất để bị coi là mại dâm, thì đương sự thậm chí không thể bị chế tài về mặt hành chính. Nói cách khác, sống sa đoạ, đồi truỵ tự nó chưa phải là hành vi vi phạm pháp luật mà chỉ mới là hành vi vi phạm đạo đức. Một trường hợp khác của sự lạm dụng thân thể do chính người có thân thể thực hiện, nhưng tính chất lạm dụng không rõ ràng lắm, là trường hợp xác lập các hợp đồng nhằm thực hiện các công việc nguy hiểm đến tính mạng. Các ví dụ rất đa dạng trong thực tiễn: hợp đồng đóng thế vai diễn viên điện ảnh trong các tình huống nguy hiểm, hợp đồng . Gọi là lạm dụng, bởi các hoat động này thường đòi hỏi việc huy động vượt quá mức bình thường các khả năng về thể chất của đương sự; bản thân các hoạt động ấy cũng không được coi là những hoạt động thích hợp với những người bình thường. Dẫu sao, trên nguyên tắc, các trường hợp",
+            "metadata": {
+              "volume": 1,
+              "category": "ca_nhan",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 2,
+              "document_type": "giao_trinh",
+              "category_label": "Chủ thể cá nhân",
+              "paragraph_count": 1
+            },
+            "score": 0.2136752022916864,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0117:c0002 | starter/data/LuatVietNam.pdf | page 117]\nTrở ngại khách quan là những trở ngại do hoàn cảnh khách quan tác động làm cho người có quyền, nghĩa vụ dân sự không thể biết về việc quyền, lợi ích hợp pháp của mình bị xâm phạm hoặc không thể thực hiện được quyền hoặc nghĩa vụ dân sự của mình; 2. Chưa có người đại diện trong trường hợp người có quyền khởi kiện, người có quyền yêu cầu chưa thành niên, mất năng lực hành vi dân sự hoặc bị hạn chế năng lực hành vi dân sự; 3. Chưa có người đại diện khác thay thế hoặc vì lý do chính đáng khác mà không thể tiếp tục đại diện được trong trường hợp người đại diện của người chưa thành niên, người mất năng lực hành vi dân sự, người bị hạn chế năng lực hành vi dân sự chết.",
+        "context_ids": [
+          "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0117:c0002"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "mức phạt vi phạm hợp đồng tối đa phần trăm giá trị nghĩa vụ bị vi phạm trong dân sự",
+        "filter": null,
+        "results": [
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0072:c0001",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 72,
+            "text": "Còn trong trường hợp chủ động giúp bệnh nhân được chết, người điều trị có thể phạm tội giúp người khác tự sát (BLHS Điều 101). 3.2. Quyền đối với sự toàn vẹn phẩm giá Thiệt hại tinh thần. Theo BLDS Điều 37. danh dự, nhân phẩm, uy tín của cá nhân được pháp luật tôn trọng và bảo vệ. một người có thể bị xúc phạm dưới hình thức vu khống hoặc lăng nhục. Dù ở hình thức nào, việc xúc phạm danh dự, nhân phẩm, uy tín phải mang tính chất cố ý mới có thể bị chế tài: một câu nói sơ ý gây tổn thương chưa đủ để quy trách nhiệm về việc xúc phạm phẩm giá. Trách nhiệm có thể được quy kết về mặt hình sự và cả về mặt dân sự. Theo BLDS năm 2005, Điều, người bị xúc phạm danh dự, nhân phẩm, uy tín có quyền tự mình cải chính hoặc yêu cầu người vi phạm hoặc yêu cầu cơ quan, tổ chức có thẩm quyền buộc người vi phạm phải chấm dứt hành vi vi phạm, xin lỗi, cải chính công khai và yêu cầu cơ quan, tổ chức có thẩm quyền buộc người vi phạm bồi thường thiệt hại. 3.3. Quyền đối với bí mật của cuộc sống riêng tư Khái niệm cuộc sống riêng tư.",
+            "metadata": {
+              "volume": 1,
+              "category": "ca_nhan",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 1,
+              "document_type": "giao_trinh",
+              "category_label": "Chủ thể cá nhân",
+              "paragraph_count": 1
+            },
+            "score": 0.29974898936022626,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0067:c0002",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 67,
+            "text": "Dẫu sao, có thể tin rằng khác với người chưa thành niên, người bị hạn chế năng lực hành vi dân sự có thể lập di chúc mà không cần có sự đồng ý của người đại diện: chỉ cần người bị hạn chế năng lực hành vi sáng suốt, minh mẫn, tự nguyện trong lúc lập di chúc, thì di chúc, một khi thoả mãn các điều kiện theo luật chung, sẽ có giá trị. Người bị hạn chế năng lực hành vi cũng có thể kết hôn mà không cần sự đồng ý của người đại diện. Phạm vi đại diện cho người bị hạn chế năng lực hành vi dân sự do Toà án quyết định (cùng điều luật). Kết hợp các quy định liên quan, ta kết luận rằng các giao dịch mà người bị hạn chế năng lực hành vi được phép xác lập, tự mình hoặc có sự đồng ý của người đại diện, bao gồm: các giao dịch nhỏ, các giao dịch mà đương sự không thể giao cho người khác thực hiện, dù không bị hạn chế năng lực hành vi dân sự, và các giao dịch mà người đại diện được phép thực hiện dưới danh nghĩa của đương sự trong phạm vi đại diện do Toà án xác định. Không như người giám hộ, người đại diện cho người bị hạn chế năng lực hành vi dân sự không chịu sự giám sát của UBND địa phương nơi cư trú trong quá trình thực hiện việc đại diện.",
+            "metadata": {
+              "volume": 1,
+              "category": "ca_nhan",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 2,
+              "document_type": "giao_trinh",
+              "category_label": "Chủ thể cá nhân",
+              "paragraph_count": 1
+            },
+            "score": 0.2576147741423168,
+            "strategy": "tfidf"
+          },
+          {
+            "id": "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0117:c0002",
+            "source_id": "giao-trinh-luat-dan-su-viet-nam-tap-1",
+            "source": "starter/data/LuatVietNam.pdf",
+            "page": 117,
+            "text": "Trở ngại khách quan là những trở ngại do hoàn cảnh khách quan tác động làm cho người có quyền, nghĩa vụ dân sự không thể biết về việc quyền, lợi ích hợp pháp của mình bị xâm phạm hoặc không thể thực hiện được quyền hoặc nghĩa vụ dân sự của mình; 2. Chưa có người đại diện trong trường hợp người có quyền khởi kiện, người có quyền yêu cầu chưa thành niên, mất năng lực hành vi dân sự hoặc bị hạn chế năng lực hành vi dân sự; 3. Chưa có người đại diện khác thay thế hoặc vì lý do chính đáng khác mà không thể tiếp tục đại diện được trong trường hợp người đại diện của người chưa thành niên, người mất năng lực hành vi dân sự, người bị hạn chế năng lực hành vi dân sự chết.",
+            "metadata": {
+              "volume": 1,
+              "category": "tai_san_quyen_so_huu",
+              "chunking": "paragraph",
+              "language": "vi",
+              "max_size": 1200,
+              "chunk_index": 2,
+              "document_type": "giao_trinh",
+              "category_label": "Tài sản và quyền sở hữu",
+              "paragraph_count": 1
+            },
+            "score": 0.23851813924147047,
+            "strategy": "tfidf"
+          }
+        ],
+        "context": "[paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0117:c0002 | starter/data/LuatVietNam.pdf | page 117]\nTrở ngại khách quan là những trở ngại do hoàn cảnh khách quan tác động làm cho người có quyền, nghĩa vụ dân sự không thể biết về việc quyền, lợi ích hợp pháp của mình bị xâm phạm hoặc không thể thực hiện được quyền hoặc nghĩa vụ dân sự của mình; 2. Chưa có người đại diện trong trường hợp người có quyền khởi kiện, người có quyền yêu cầu chưa thành niên, mất năng lực hành vi dân sự hoặc bị hạn chế năng lực hành vi dân sự; 3. Chưa có người đại diện khác thay thế hoặc vì lý do chính đáng khác mà không thể tiếp tục đại diện được trong trường hợp người đại diện của người chưa thành niên, người mất năng lực hành vi dân sự, người bị hạn chế năng lực hành vi dân sự chết.",
+        "context_ids": [
+          "paragraph:giao-trinh-luat-dan-su-viet-nam-tap-1:p0117:c0002"
+        ]
+      },
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ]
+  }
+]

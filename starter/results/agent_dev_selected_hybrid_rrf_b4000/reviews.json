@@ -1,0 +1,150 @@
+[
+  {
+    "query_id": "q01",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "notes": "Đúng ngày thông qua 14/06/2005 và ngày có hiệu lực 01/01/2006 từ trang 22."
+  },
+  {
+    "query_id": "q02",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "notes": "Nêu đủ 4 chủ thể: cá nhân, pháp nhân, hộ gia đình, tổ hợp tác từ trang 23."
+  },
+  {
+    "query_id": "q03",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "notes": "Đúng 3 yếu tố: họ và tên, hộ tịch, nơi cư trú từ trang 23."
+  },
+  {
+    "query_id": "q04",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "notes": "Đúng khái niệm Bí danh ở trang 23."
+  },
+  {
+    "query_id": "q05",
+    "answer_grade": 2,
+    "citation_support": [
+      true,
+      true
+    ],
+    "context_grade": 2,
+    "notes": "Nêu đúng chức năng định vị cá nhân trong không gian tại điểm cố định trên lãnh thổ từ trang 38."
+  },
+  {
+    "query_id": "q06",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "notes": "Nêu đủ 2 nhóm người hoàn toàn không có năng lực hành vi ở trang 51."
+  },
+  {
+    "query_id": "q07",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "notes": "Đúng định nghĩa quyền nhân thân theo BLDS 2005 ở trang 68."
+  },
+  {
+    "query_id": "q08",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "notes": "Nêu đủ 4 đặc điểm cơ bản của pháp nhân ở trang 76."
+  },
+  {
+    "query_id": "q09",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "notes": "Nêu đủ 2 điều kiện của quyền tài sản ở trang 93."
+  },
+  {
+    "query_id": "q10",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "notes": "Phân biệt đúng hoa lợi và lợi tức ở trang 95."
+  },
+  {
+    "query_id": "q11",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "notes": "Đúng quy tắc vật phụ mặc nhiên đi theo vật chính nếu không có thỏa thuận khác ở trang 96."
+  },
+  {
+    "query_id": "q12",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "notes": "Đúng định nghĩa vật tiêu hao ở trang 97."
+  },
+  {
+    "query_id": "q13",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "notes": "Phân biệt đúng vật cùng loại và vật đặc định ở trang 97."
+  },
+  {
+    "query_id": "q14",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "notes": "Giải thích đúng vì tài sản vô hình không thể chiếm hữu vật chất nên chỉ khởi kiện/khiếu nại ở trang 100."
+  },
+  {
+    "query_id": "q15",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "notes": "Đúng thời hạn sáng chế 20 năm, giải pháp hữu ích 10 năm, kiểu dáng công nghiệp 15 năm ở trang 100."
+  },
+  {
+    "query_id": "u01",
+    "citation_support": [],
+    "abstention_correct": true,
+    "notes": "Từ chối đúng sau 3 lượt tìm vì Tập 1 không có quy định lãi suất vay của BLDS 2015."
+  },
+  {
+    "query_id": "u02",
+    "citation_support": [],
+    "abstention_correct": true,
+    "notes": "Từ chối đúng vì Tập 1 không có chương Thừa kế hay thời hiệu chia di sản."
+  }
+]

@@ -1,0 +1,22 @@
+{
+  "config_name": "selected_hybrid_rrf_b4000",
+  "model": "gpt-4o-mini",
+  "max_searches": 3,
+  "top_k": 3,
+  "budget_chars": 4000,
+  "cases_total": 7,
+  "answered_count": 5,
+  "abstain_count": 2,
+  "error_count": 0,
+  "search_count_distribution": {
+    "1": 5,
+    "3": 2
+  },
+  "avg_searches": 1.57,
+  "median_ms": 4258.67,
+  "total_ms": 30822.7,
+  "prompt_tokens": 18662,
+  "completion_tokens": 1024,
+  "embedding_tokens": 454,
+  "estimated_cost_usd": 0.003423
+}

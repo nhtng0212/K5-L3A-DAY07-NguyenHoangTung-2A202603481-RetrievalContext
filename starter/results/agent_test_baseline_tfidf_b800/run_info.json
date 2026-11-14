@@ -1,0 +1,22 @@
+{
+  "config_name": "baseline_tfidf_b800",
+  "model": "gpt-4o-mini",
+  "max_searches": 3,
+  "top_k": 3,
+  "budget_chars": 800,
+  "cases_total": 7,
+  "answered_count": 1,
+  "abstain_count": 6,
+  "error_count": 0,
+  "search_count_distribution": {
+    "2": 2,
+    "3": 5
+  },
+  "avg_searches": 2.71,
+  "median_ms": 3472.89,
+  "total_ms": 25313.74,
+  "prompt_tokens": 14211,
+  "completion_tokens": 610,
+  "embedding_tokens": 0,
+  "estimated_cost_usd": 0.002498
+}

@@ -1,0 +1,59 @@
+[
+  {
+    "query_id": "q16",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "notes": "Trả lời đúng và đủ rằng mỗi cá nhân chỉ có một nơi cư trú cố định, kèm giải thích và trích dẫn đúng trang 38 [p0038:c0000]."
+  },
+  {
+    "query_id": "q17",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "notes": "Trả lời đúng pháp nhân nhân danh chính mình tham gia quan hệ pháp luật một cách độc lập, trích dẫn đúng trang 76 [p0076:c0002]."
+  },
+  {
+    "query_id": "q18",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "notes": "Giải thích đúng và đủ vì sử dụng vật tiêu hao đồng nghĩa với định đoạt và chuyển quyền sở hữu, trích dẫn đúng trang 97 [p0097:c0001]."
+  },
+  {
+    "query_id": "q19",
+    "answer_grade": 1,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 1,
+    "notes": "Đúng một phần (1/2): nêu đúng điều kiện chiếm hữu ngay tình, liên tục, công khai theo trang 113 [p0113:c0000], nhưng thiếu hai thuật ngữ học thuật 'corpus' và 'animus' nằm ở trang 122."
+  },
+  {
+    "query_id": "q20",
+    "answer_grade": 2,
+    "citation_support": [
+      true
+    ],
+    "context_grade": 2,
+    "notes": "Trả lời đúng và đủ điều kiện đăng ký quyền sở hữu bề mặt khi tài sản gắn liền với đất thuộc loại phải đăng ký, trích dẫn đúng trang 152 [p0152:c0000]."
+  },
+  {
+    "query_id": "u03",
+    "citation_support": [],
+    "abstention_correct": true,
+    "notes": "Từ chối đúng sau 3 lượt tìm kiếm vì giáo trình Tập 1 không có quy định về ký quỹ."
+  },
+  {
+    "query_id": "u04",
+    "citation_support": [],
+    "abstention_correct": true,
+    "notes": "Từ chối đúng sau 3 lượt tìm kiếm vì giáo trình Tập 1 không có quy định về mức phạt vi phạm hợp đồng."
+  }
+]

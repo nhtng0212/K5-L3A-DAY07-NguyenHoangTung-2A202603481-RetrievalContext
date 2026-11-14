@@ -1,0 +1,51 @@
+[
+  {
+    "query_id": "q16",
+    "answer_grade": 0,
+    "citation_support": [],
+    "context_grade": 0,
+    "notes": "Chunk đúng trang 38 dài 1152 ký tự > budget 800 nên bị pack_context loại bỏ; context trống dẫn đến từ chối nhầm."
+  },
+  {
+    "query_id": "q17",
+    "answer_grade": 0,
+    "citation_support": [],
+    "context_grade": 0,
+    "notes": "Chunk đúng trang 76 dài 1016 ký tự > budget 800 nên bị loại bỏ; từ chối nhầm."
+  },
+  {
+    "query_id": "q18",
+    "answer_grade": 0,
+    "citation_support": [],
+    "context_grade": 0,
+    "notes": "Chunk đúng trang 97 dài 1143 ký tự > budget 800 nên bị loại bỏ; từ chối nhầm."
+  },
+  {
+    "query_id": "q19",
+    "answer_grade": 0,
+    "citation_support": [],
+    "context_grade": 0,
+    "notes": "Không tìm được gold trang 122 và các chunk tìm được cũng bị cắt do budget=800; từ chối nhầm."
+  },
+  {
+    "query_id": "q20",
+    "answer_grade": 0,
+    "citation_support": [
+      false
+    ],
+    "context_grade": 0,
+    "notes": "Chunk đúng trang 152 dài 940 ký tự bị loại do budget=800; chunk p0123:c0002 ngắn nên lọt vào context nhưng chỉ nói về đăng ký mua bán chung, không phải quyền sở hữu bề mặt (citation không hỗ trợ mệnh đề quyền sở hữu bề mặt)."
+  },
+  {
+    "query_id": "u03",
+    "citation_support": [],
+    "abstention_correct": true,
+    "notes": "Từ chối đúng câu hỏi về chi phí quản lý tài sản ký quỹ."
+  },
+  {
+    "query_id": "u04",
+    "citation_support": [],
+    "abstention_correct": true,
+    "notes": "Từ chối đúng câu hỏi về mức phạt vi phạm hợp đồng."
+  }
+]

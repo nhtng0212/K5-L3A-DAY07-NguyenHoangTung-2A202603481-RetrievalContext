@@ -1,0 +1,56 @@
+[
+  {
+    "config_name": "1_baseline_tfidf_b800",
+    "description": "Baseline: TF-IDF, top_k=3, no filter, budget=800 chars",
+    "split": "test",
+    "n": 5,
+    "top_k": 3,
+    "budget_chars": 800,
+    "hit1": 4,
+    "hit1_rate": 0.8,
+    "hit3": 4,
+    "hit3_rate": 0.8,
+    "context_hit": 0,
+    "context_hit_rate": 0.0,
+    "avg_context_chars": 280.2,
+    "median_ms": 2.945,
+    "total_ms": 15.92,
+    "embedding_tokens": 0,
+    "service_cost_usd": 0.0,
+    "missed_hit3_ids": [
+      "q19"
+    ],
+    "missed_context_ids": [
+      "q16",
+      "q17",
+      "q18",
+      "q19",
+      "q20"
+    ]
+  },
+  {
+    "config_name": "5_selected_hybrid_rrf_b4000_filter",
+    "description": "Selected Config: Hybrid RRF (Dense + BM25, pool=15), top_k=3, trusted filter, budget=4000 chars",
+    "split": "test",
+    "n": 5,
+    "top_k": 3,
+    "budget_chars": 4000,
+    "hit1": 4,
+    "hit1_rate": 0.8,
+    "hit3": 4,
+    "hit3_rate": 0.8,
+    "context_hit": 4,
+    "context_hit_rate": 0.8,
+    "avg_context_chars": 3297.4,
+    "median_ms": 358.448,
+    "total_ms": 2690.78,
+    "embedding_tokens": 223,
+    "service_cost_usd": 4.46e-06,
+    "missed_hit3_ids": [
+      "q19"
+    ],
+    "missed_context_ids": [
+      "q19"
+    ]
+  }
+]

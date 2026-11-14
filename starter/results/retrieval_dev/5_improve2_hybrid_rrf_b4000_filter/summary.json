@@ -1,0 +1,21 @@
+{
+  "config_name": "5_improve2_hybrid_rrf_b4000_filter",
+  "description": "Improvement 2 (Method 4 - Hybrid RRF + Budget + Filter): Dense + BM25 RRF (pool=15), top_k=3, trusted filter, budget=4000 chars",
+  "split": "dev",
+  "n": 15,
+  "top_k": 3,
+  "budget_chars": 4000,
+  "hit1": 14,
+  "hit1_rate": 0.9333,
+  "hit3": 15,
+  "hit3_rate": 1.0,
+  "context_hit": 15,
+  "context_hit_rate": 1.0,
+  "avg_context_chars": 3289.1,
+  "median_ms": 21.015,
+  "total_ms": 335.34,
+  "embedding_tokens": 0,
+  "service_cost_usd": 0.0,
+  "missed_hit3_ids": [],
+  "missed_context_ids": []
+}

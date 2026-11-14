@@ -1,0 +1,40 @@
+{
+  "config_name": "2_bm25_b800",
+  "description": "Method 2 (Lexical BM25): Okapi BM25 (k1=1.5, b=0.75), top_k=3, no filter, budget=800 chars",
+  "split": "dev",
+  "n": 15,
+  "top_k": 3,
+  "budget_chars": 800,
+  "hit1": 9,
+  "hit1_rate": 0.6,
+  "hit3": 12,
+  "hit3_rate": 0.8,
+  "context_hit": 1,
+  "context_hit_rate": 0.0667,
+  "avg_context_chars": 284.9,
+  "median_ms": 2.424,
+  "total_ms": 34.98,
+  "embedding_tokens": 0,
+  "service_cost_usd": 0.0,
+  "missed_hit3_ids": [
+    "q06",
+    "q08",
+    "q09"
+  ],
+  "missed_context_ids": [
+    "q01",
+    "q02",
+    "q03",
+    "q04",
+    "q05",
+    "q06",
+    "q07",
+    "q08",
+    "q09",
+    "q10",
+    "q12",
+    "q13",
+    "q14",
+    "q15"
+  ]
+}
